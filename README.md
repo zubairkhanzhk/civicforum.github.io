@@ -5,6 +5,9 @@ _为什么要做公民教育?_
 
 越多的人具备公民素质，政府就越难欺骗大家，人民才能行使越多本属于自己的权利。
 
+墙内外的网络上已经存在天量的优质资源（知识、评论、教程、公开课、新闻流），但绝大部分内容用户只能被动接收，往往无法突破自身的**认知泡沫(filter bubble)**--即接触到你不知道自己不知道的东西。
+本项目旨在利用已有的优质资源和平台，引导朋友们对常见且切身的政治论题进行思考、研究、组织和表达，并在于其他参与者互动的过程中理解各种观点、诉求、视角、思维方式、研究技巧，最终既丰富自己的观点，又提高研究问题的水准。
+
 ## 辩论题目列表
 如果你在墙内，建议通过Tor访问品葱参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
