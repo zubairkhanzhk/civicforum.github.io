@@ -22,26 +22,26 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 
 请自行判断所列技术，没有绝对的安全
 
-1. 浏览网站时能够暴露你身份主要有IP地址和浏览器指纹。英文好的请务必阅读[关于浏览器指纹的详细介绍](https://pixelprivacy.com/resources/browser-fingerprinting/)。 在未被墙的[AmIUnique](https://amiunique.org)测试自己的浏览器指纹是否能唯一，很可能你常用的浏览器如Chrome, Opera, Edge, IE等具有唯一的指纹。浏览器指纹能泄露你在墙内外不同网站上的活动，比如你在墙内网站A从事正常活动（但浏览器指纹被记录），然后你开了VPN访问墙外网站B，如果网站B是钓鱼网站将你的浏览器指纹发送回朝廷，那么尽管你在网站A、B采用了不同的用户名、注册邮箱、密码，而且通过VPN隐藏了自己的真实IP地址，当局仍然能够根据浏览器指纹确定网站B上你的活动。 因此最好就是采用编程随想的方式，见下文。
-2. 编程随想似乎用的是双虚拟机（网卡）+ VPN + Tor; Tor+虚拟机，不装任何国产软件，[泡泡上有关tor的文章](https://pao-pao.net/article/1049)
-3. Tor Browser能同时掩盖你的IP地址和浏览器指纹，注意只使用Tor Browser用于翻墙浏览网站，尤其是要保持其默认窗口大小，虽然这会牺牲用户体验但能更好的保证你的浏览器特征不被识别
+1. 浏览网站时能够暴露你身份主要有IP地址和浏览器指纹。英文好的请务必阅读[关于浏览器指纹的详细介绍](https://pixelprivacy.com/resources/browser-fingerprinting/)。 在未被墙的[AmIUnique](https://amiunique.org)测试自己的浏览器指纹是否能唯一，很可能你常用的浏览器如Chrome, Opera, Edge, IE等具有唯一的指纹。浏览器指纹能泄露你在墙内外不同网站上的活动，比如你在墙内网站A从事正常活动（但浏览器指纹被记录），然后你开了VPN访问墙外网站B，如果网站B是钓鱼网站将你的浏览器指纹发送回朝廷，那么尽管你在网站A、B采用了不同的用户名、注册邮箱、密码，而且通过VPN隐藏了自己的真实IP地址，当局仍然能够根据浏览器指纹确定网站B上你的活动。
+2. VPN + Tor Browser能同时掩盖你的IP地址和浏览器指纹，注意只使用Tor Browser用于翻墙浏览网站，尤其是要保持其默认窗口大小，虽然这会牺牲用户体验但能更好的保证你的浏览器特征不被识别。请至少用Tor Browser, 最好加入下文中如编程随想的额外措施（考虑到国产软件、墙外钓鱼网站、蜜罐等的安全威胁）。
+3. 编程随想似乎用的是双虚拟机（网卡）+ VPN + Tor; Tor+虚拟机，不装任何国产软件，[泡泡上有关tor的文章](https://pao-pao.net/article/1049)
 4. 操作系统，从U盘或者DVD启动的保护隐私的操作系统[https://tails.boum.org/](https://tails.boum.org/) 这种操作系统的所有内容都存储在电脑内存中，只要拔掉/关掉电源就一切消失，可以防止突然被当局抄家后泄露存储在硬盘的敏感资料，或者上网时电脑被植入木马
 5. 弃vpn用ssr或v2(待考证)
 6. 申请虚拟电话号码，如TextNow
 7. 不用与墙内相同的网名，更不要用实名，更不要采用跟墙内账号相同或相近的密码
 8. 不要发暴露身份信息的照片
 9. 不要标注地址信息
-10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件 https://protonmail.com/  注意, 你需要牢记密码, 因为没人可以帮你找回密码. 如果你的目的是注册网站，可以考虑 http://www.bccto.me  临时邮箱。一些安全邮件提供商 https://imgchr.com/i/F7CsJK 
-11. 此外, 再推荐几个相对安全的应用; MEGA (https://mega.nz/)  是一个加密的云盘. Tor (https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE (https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram (https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen (https://unseen.is/)
+10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件[https://protonmail.com/](https://protonmail.com/)  注意, 你需要牢记密码, 因为没人可以帮你找回密码. 如果你的目的是注册网站，可以考虑临时邮箱[http://www.bccto.me](http://www.bccto.me). 一些安全邮件提供商[https://imgchr.com/i/F7CsJK](https://imgchr.com/i/F7CsJK) 
+11. 此外, 再推荐几个相对安全的应用; MEGA [https://mega.nz/](https://mega.nz/)  是一个加密的云盘. Tor [https://www.torproject.org/](https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE [https://wire.com](https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram [https://telegram.org/](https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen [https://unseen.is/](https://unseen.is/)
 12. 除此之外, 你的输入法也可能被用来监视你, 因此不推荐使用国产的输入法.
 
 ## 【相关资源】<a name="resources"></a>
 
 ### 隐私工具-加密安全对抗全球大规模监控 
-https://cybermagicsec.github.io/privacytools-zh/
+[https://cybermagicsec.github.io/privacytools-zh/](https://cybermagicsec.github.io/privacytools-zh/)
 
 ### 编程随想 翻墙技术专栏 
-https://program-think.blogspot.com/
+[https://program-think.blogspot.com/](https://program-think.blogspot.com/)
 
 1. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html) 
 2. [如何防止黑客入侵(系列)](https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html) 
