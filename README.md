@@ -6,7 +6,7 @@ _为什么要做公民教育?_
 越多的人具备公民素质，政府就越难欺骗大家，人民才能行使越多本属于自己的权利。
 
 ## 辩论题目列表
-如果你在墙内，建议通过TorBrowser访问品葱参与讨论，查看更多[安全上网知识](./online_security.md)
+如果你在墙内，建议通过Tor访问品葱参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
 1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223)
 2. [人权高于主权](https://pincong.rocks/question/1271)
@@ -51,8 +51,8 @@ _为什么要做公民教育?_
 41. [两个成年人之间自愿的性行为是其自由，无论其婚姻关系为何](https://pincong.rocks/question/1329)
 42. [不应公开谈论自己长辈的缺点](https://pincong.rocks/question/1330)
 43. [现代中国社会需要儒家思想](https://pincong.rocks/question/1331)
-44. 判断艺术作品的价值的根本标准是看是不是受到人民大众喜爱
-45. 即使有人口压力，国家和社会也无权干涉个人要不要孩子，要几个孩子
+44. [判断艺术作品的价值的根本标准是看是不是受到人民大众喜爱](https://pincong.rocks/question/1332)
+45. [即使有人口压力，国家和社会也无权干涉个人要不要孩子，要几个孩子](https://pincong.rocks/question/1333)
 46. [周易八卦能够有效的解释很多事情](https://pincong.rocks/question/1334)
 47. [中国传统医学对人体健康的观念比现代主流医学更高明](https://pincong.rocks/question/1230)
 48. [汉字无需人为推行简化](https://pincong.rocks/question/1335)
@@ -66,7 +66,7 @@ _为什么要做公民教育?_
 4. [Center for Civic Education](http://www.civiced.org/)
 5. ['Civics Education: Learning About the Rights & Obligations of Citizenship,' NEA.](http://www.nea.org/civicseducation)
 
-## 推荐阅读
+## 夹带私货
 1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
 2. [编程随想的博客](https://program-think.blogspot.com/)
 2. [一场风的博客](https://yichangfeng.home.blog)
