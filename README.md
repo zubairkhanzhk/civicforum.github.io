@@ -70,7 +70,7 @@ _为什么要做公民教育?_
 1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
 2. [编程随想的博客](https://program-think.blogspot.com/)
 3. [一场风的博客](https://yichangfeng.home.blog)
-4. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/)
+4. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/), 编程随想推荐 [博客](https://program-think.blogspot.com/2014/01/share-books.html) [Github完整书单](https://github.com/programthink/books) 
 5. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
 
 更新日期2019/1/13
