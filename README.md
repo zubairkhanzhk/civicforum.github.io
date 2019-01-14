@@ -16,7 +16,7 @@
 
 另外也可以加入github讨论组[https://github.com/civicdiscussion](https://github.com/civicdiscussion)
 
-欢迎向本github repo中提交issue以提供建议
+欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
 ## 议论题目列表
 1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/1)
