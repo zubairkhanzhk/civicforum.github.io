@@ -36,7 +36,7 @@
 20. [国家应当采取措施培养和支持体育健儿在各种国际比赛场合为国争光](https://pincong.rocks/question/1308)
 21. [最低工资应该由国家规定](https://pincong.rocks/question/1309)
 22. [中国改革开放以来的经济发展的成果都被一小群人占有了，大多数人没得到什么好处](https://pincong.rocks/question/1310)
-23. [在重大工程羡慕的决策中，个人利益应该为社会利益让路](https://pincong.rocks/question/1311)
+23. [在重大工程项目的决策中，个人利益应该为社会利益让路](https://pincong.rocks/question/1311)
 24. [浪费粮食也是个人的自由](https://pincong.rocks/question/1312)
 25. [如果猪肉价格过高，政府应当干预](https://pincong.rocks/question/1313)
 26. [应当对国外同类产品征收高额关税来保护国内民族工业](https://pincong.rocks/question/1314)
