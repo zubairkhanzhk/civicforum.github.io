@@ -84,7 +84,7 @@
 3. [一场风的博客](https://yichangfeng.home.blog)
 4. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/), 编程随想推荐 [博文](https://program-think.blogspot.com/2014/01/share-books.html) [Github完整书单](https://github.com/programthink/books) 
 5. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
-6. 渗透与颠覆的教科书(全英文无中字)[Yuri Bezmenov: Subversion and Control of Western Society](https://www.youtube.com/watch?v=p6lksJhBvas)
+6. 渗透与颠覆的教科书(全英文无中字)[Yuri Bezmenov: Deception Was My Job (Complete)](https://www.youtube.com/watch?v=y3qkf3bajd4)
     > Yuri Bezmenov是前苏联KGB间谍、驻印度外交官，70年代叛逃到加拿大。这部1983年的视频包含两部分：他的个人经历，关于KGB如何有步骤改变民主社会的价值观并最终颠覆民主政权。年轻人在了解这一渗透和颠覆运动的框架和模式之后，能够避免自己被内外势力操纵、利用，避免自己被当作代理人(有用的白痴Useful Idiot)利用或被代理人蛊惑。这一颠覆教程的重要启示就是那些代理人和炮灰在夺权之后都会被以各种名义肉体消灭，仅仅因为嫌他们知道太多。这些模式在中国并不例外，大量曾经的中共地下党员在49年到文革期间的各种运动中被清洗，在文革中充当打手的红卫兵和造反派头子被以'上山下乡'等各种方式整肃、迫害，这些都不是偶然。 __尤其是今天的马列毛左狂热分子及其背后的领头人应以史为鉴，想好退路，勿重蹈覆辙。__
 
 更新日期2019/1/14
