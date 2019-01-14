@@ -14,7 +14,7 @@
 ## 议论题目列表
 如果你在墙内，建议通过Tor访问品葱参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
-1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223)
+1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223) | [Github forum](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/1)
 2. [人权高于主权](https://pincong.rocks/question/1271)
 3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://pincong.rocks/question/1293)
 4. [西方的多党制不适合中国国情](https://pincong.rocks/question/1294)
