@@ -39,10 +39,13 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 
 ## 【相关资源】<a name="resources"></a>
 
-### 隐私工具-加密安全对抗全球大规模监控 
+### 隐私工具--加密安全对抗全球大规模监控 
 [https://cybermagicsec.github.io/privacytools-zh/](https://cybermagicsec.github.io/privacytools-zh/)
 
-### 编程随想 翻墙技术专栏 
+### 粉碎棱镜--保护你自己的安全、隐私和自由
+[https://prism-break.org/zh-CN/](https://prism-break.org/zh-CN/)
+
+### 编程随想的博客--翻墙技术专栏 
 [https://program-think.blogspot.com/](https://program-think.blogspot.com/)
 
 1. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html) 
