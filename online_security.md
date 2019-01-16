@@ -1,6 +1,6 @@
 # [civicforum.github.io](https://civicforum.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/12
+本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/17
 
 目录
 * [安全意识](#mindset)
@@ -18,13 +18,15 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 总之只要你想自由表达就不可避免的对朝廷造成2、3等级的威胁，因此请务必把自己练成‘编程随想’那样无法跟踪的高手，认真学习网络安全知识和技术，千万别怕麻烦。
 
 另外，虞超先生就使用社交媒体时的安全意识，进行了[详细阐述](http://www.epochtimes.com/gb/16/5/2/n7795513.htm)
+
+叮嘱一句，没有绝对安全，别学会点安全技术就去沾军事情报，可能就是送死。
 ## 【安全技术】<a name="techniques"></a>
 
 请自行判断所列技术，没有绝对的安全
 
 1. 浏览网站时能够暴露你身份主要有IP地址和浏览器指纹。英文好的请务必阅读[关于浏览器指纹的详细介绍](https://pixelprivacy.com/resources/browser-fingerprinting/)。 在未被墙的[AmIUnique](https://amiunique.org)测试自己的浏览器指纹是否能唯一，很可能你常用的浏览器如Chrome, Opera, Edge, IE等具有唯一的指纹。浏览器指纹能泄露你在墙内外不同网站上的活动，比如你在墙内网站A从事正常活动（但浏览器指纹被记录），然后你开了VPN访问墙外网站B，如果网站B是钓鱼网站将你的浏览器指纹发送回朝廷，那么尽管你在网站A、B采用了不同的用户名、注册邮箱、密码，而且通过VPN隐藏了自己的真实IP地址，当局仍然能够根据浏览器指纹确定网站B上你的活动。
 2. VPN + Tor Browser能同时掩盖你的IP地址和浏览器指纹，注意只使用Tor Browser用于翻墙浏览网站，尤其是要保持其默认窗口大小，虽然这会牺牲用户体验但能更好的保证你的浏览器特征不被识别。请至少用Tor Browser, 最好加入下文中如编程随想的额外措施（考虑到国产软件、墙外钓鱼网站、蜜罐等的安全威胁）。
-3. 编程随想似乎用的是双虚拟机（网卡）+ VPN + Tor ([参加其博文](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1)); Tor+虚拟机，不装任何国产软件，[泡泡上有关tor的文章](https://pao-pao.net/article/1049)
+3. 双虚拟机（网卡）+ VPN + Tor ([参见编程随想的博文](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1)); Tor+虚拟机，不装任何国产软件，[泡泡上有关tor的文章](https://pao-pao.net/article/1049)
 4. 操作系统，从U盘或者DVD启动的保护隐私的操作系统[https://tails.boum.org/](https://tails.boum.org/) 这种操作系统的所有内容都存储在电脑内存中，只要拔掉/关掉电源就一切消失，可以防止突然被当局抄家后泄露存储在硬盘的敏感资料，或者上网时电脑被植入木马
 5. 弃vpn用ssr或v2(待考证)
 6. 申请虚拟电话号码，如TextNow
