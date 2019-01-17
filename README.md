@@ -12,15 +12,15 @@
 **子曰：“光听课是不行的，自己写一遍作业才能真正掌握它。”**
 
 ## 参与方式
-如果你在墙内，建议通过VPN+Tor访问品葱并参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
+【安全上网】如果你在墙内，建议通过VPN+Tor访问品葱并参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
-此外，还可以直接参加github的开放讨论(建议用匿名邮箱如protonmail注册新github账号) [https://github.com/civicdiscussion](https://github.com/civicdiscussion)
+【参与讨论】可选平台 墙外[新品葱](https://pincong.rocks)，和Github开放讨论区(建议用匿名邮箱如[ProtonMail](https://www.protonmail.com)注册新github账号)， [Github封闭讨论区](https://github.com/civicdiscussion)
 
-欢迎转发(本链接未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
+【建议反馈】欢迎转发本页(未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
 ## 议论题目列表
-1. 如果人们没有受过民主教育，他们是不应该拥有普选权的 == [品葱](https://pincong.rocks/question/1223) == [Github开放讨论区](https://github.com/civicforum/civicforum.github.io/issues/1)
-2. 人权高于主权 == [品葱](https://pincong.rocks/question/1271) == [Github开放讨论区](https://github.com/civicforum/civicforum.github.io/issues/2)
+1. [如果人们没有受过民主教育，他们是不应该拥有普选权的吗？](https://github.com/civicforum/civicforum.github.io/issues/1) == [品葱用户点此](https://pincong.rocks/question/1223) 
+2. [人权高于主权吗？](https://github.com/civicforum/civicforum.github.io/issues/2) == [品葱用户点此](https://pincong.rocks/question/1271)
 3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://pincong.rocks/question/1293) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/3)
 4. [西方的多党制不适合中国国情](https://pincong.rocks/question/1294) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/4)
 5. [在中国照搬西方式的言论自由会导致社会失序](https://pincong.rocks/question/1295) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/5)
