@@ -14,12 +14,12 @@
 ## 参与方式
 如果你在墙内，建议通过VPN+Tor访问品葱并参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
-另外也可以加入github讨论组[https://github.com/civicdiscussion](https://github.com/civicdiscussion)
+此外，还可以直接参加github的开放讨论(建议用匿名邮箱如protonmail注册新github账号) [https://github.com/civicdiscussion](https://github.com/civicdiscussion)
 
 欢迎转发(本链接未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
 ## 议论题目列表
-1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223) ==== [Github讨论组](https://github.com/civicforum/civicforum.github.io/issues/1)
+1. 如果人们没有受过民主教育，他们是不应该拥有普选权的 == [品葱](https://pincong.rocks/question/1223) == [Github开放讨论](https://github.com/civicforum/civicforum.github.io/issues/1)
 2. [人权高于主权](https://pincong.rocks/question/1271) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/2)
 3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://pincong.rocks/question/1293) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/3)
 4. [西方的多党制不适合中国国情](https://pincong.rocks/question/1294) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/4)
