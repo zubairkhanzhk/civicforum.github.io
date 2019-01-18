@@ -19,11 +19,11 @@
 【建议反馈】欢迎转发本页(未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
 ## 议论题目列表
-1. [如果人们没有受过民主教育，他们是不应该拥有普选权的吗？](https://github.com/civicforum/civicforum.github.io/issues/1) == [品葱用户点此](https://pincong.rocks/question/1223) 
-2. [人权高于主权吗？](https://github.com/civicforum/civicforum.github.io/issues/2) == [品葱用户点此](https://pincong.rocks/question/1271)
-3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://pincong.rocks/question/1293) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/3)
-4. [西方的多党制不适合中国国情](https://pincong.rocks/question/1294) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/4)
-5. [在中国照搬西方式的言论自由会导致社会失序](https://pincong.rocks/question/1295) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/5)
+1. [如果人们没有受过民主教育，他们是不应该拥有普选权的吗？](https://github.com/civicforum/civicforum.github.io/issues/1) ==> [品葱用户点此](https://pincong.rocks/question/1223) 
+2. [人权高于主权吗？](https://github.com/civicforum/civicforum.github.io/issues/2) ==> [品葱用户点此](https://pincong.rocks/question/1271)
+3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://github.com/civicforum/civicforum.github.io/issues/3) ==> [品葱用户点此](https://pincong.rocks/question/1293) 
+4. [西方的多党制不适合中国国情](https://github.com/civicforum/civicforum.github.io/issues/4) ==> [品葱用户点此](https://pincong.rocks/question/1294) 
+5. [在中国照搬西方式的言论自由会导致社会失序](https://github.com/civicforum/civicforum.github.io/issues/5) ==> [品葱用户点此](https://pincong.rocks/question/1295)
 6. [由高校自主考试招生比全国统一考试招生更好](https://pincong.rocks/question/1296) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/6)
 7. [应该容许宗教人士在非宗教场所公开传教](https://pincong.rocks/question/1297) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/7)
 8. [中小学生或大学生，都应该参加国家统一安排的军训](https://pincong.rocks/question/1299) , [Github讨论组](https://github.com/orgs/civicdiscussion/teams/civicforum/discussions/8)
