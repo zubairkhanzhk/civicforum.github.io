@@ -14,7 +14,7 @@
 ## 参与方式
 【安全上网】如果你在墙内，建议通过VPN+Tor访问品葱并参与讨论，常见应用[Tor Browser](https://www.torproject.org/projects/torbrowser.html) (iPad或iPhone用户可用[Onion Browser](https://blog.torproject.org/tor-heart-onion-browser-and-more-ios-tor))，查看更多[安全上网知识](./online_security.md)
 
-【参与讨论】可选平台 墙外[新品葱](https://pincong.rocks)，和Github开放讨论区(建议用匿名邮箱如[ProtonMail](https://www.protonmail.com)注册新github账号)， [Github封闭讨论区](https://github.com/civicdiscussion)
+【参与讨论】可选平台 墙外[新品葱](https://pincong.rocks)，和Github开放讨论区(建议用匿名邮箱如[ProtonMail](https://www.protonmail.com)注册新github账号)， [这里有如何写出好答案的简介](./guide.md)
 
 【建议反馈】欢迎转发本页(未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
