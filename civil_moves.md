@@ -5,6 +5,6 @@
 2. 许志永 -- 新公民运动。2013年遭监禁，2017年7月刑满释放
 3. [中国公民运动网](https://cmcn.org/)
 
-欢迎补充
+在[这里](https://github.com/civicforum/civicforum.github.io/issues/51)补充
 
 更新日期 2019/1/20
