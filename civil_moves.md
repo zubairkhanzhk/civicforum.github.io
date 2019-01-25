@@ -8,6 +8,7 @@
 5. 李英强 -- 立人乡村图书馆，2008-2014，[纽约时报访谈-李英强：从立人到福音](https://cn.nytimes.com/china/20140926/cc26liyingqiang/ )
 
 ### 境外
+3. [国际特赦组织](https://zh.amnesty.org/)
 1. [中国人权](https://www.hrichina.org/), 1989-至今，在纽约和香港设有办公室
 2. [民主中国](http://minzhuzhongguo.org/), 请网友敦促其改用https
 
