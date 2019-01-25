@@ -4,7 +4,7 @@
 ## 为什么要做公民教育?
 
 越多的人具备公民素质，政府就越难欺骗大家，人民才能行使越多本属于自己的权利。
-[中国公民运动列表(收集中)](./civil_moves.md) | __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)
+[中国公民运动列表(收集中)](./civil_moves.md) | __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__
 
 可尽管网上有着天量的优质资源（知识、评论、教程、公开课、新闻流），但大部分人却受制于 __认知泡沫([filter bubble](https://en.wikipedia.org/wiki/Filter_bubble))__ 而无法有效利用这些资源去实质性地提高自己--即接触到那些你不知道自己不知道的东西。
 本项目就是为了弥补这一缺失的环节。
@@ -91,6 +91,6 @@
 5. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
 6. 渗透与颠覆的教科书(全英文无中字) [Yuri Bezmenov: Deception Was My Job (Complete)](https://www.youtube.com/watch?v=y3qkf3bajd4), [Yuri Bezmenov: Psychological Warfare Subversion & Control of Western Society (Complete)](https://www.youtube.com/watch?v=5gnpCqsXE8g)
     > Yuri Bezmenov是前苏联KGB间谍、驻印度外交官，70年代秘密叛逃至加拿大。这部摄制于80年代初的视频包含他的个人经历和KGB如何按步骤改变自由社会的价值观并最终颠覆其政权。学习渗透和颠覆的基本框架的目的是帮你避免被内外势力操纵、利用，被当作代理人(有用的白痴Useful Idiot)或被宣传机器所蛊惑。而在夺权之后，那些革命分子大多都被当作不稳定因素被各种名义肉体消灭或整肃。这类模式不仅出现在许多华约国家，在中共党史中也屡见不鲜：大量中共地下党员在49年到文革期间的各种运动中被清洗，文革中的红卫兵和造反派头子也都被以'上山下乡'或判刑等方式整肃、迫害，这些都不是偶然。 __尤其是今天的马列毛左狂热分子及其背后的煽动者应以史为鉴，想好退路，勿重蹈覆辙。__
-7. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)
+7. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__
 
 更新日期2019/1/18
