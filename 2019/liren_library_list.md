@@ -1,4 +1,4 @@
-[互联网Archive的立人乡村图书馆书目](https://web.archive.org/web/20110812033006/http://www.xctsg.org/archives/1319)
+[立人乡村图书馆书目的互联网存档](https://web.archive.org/web/20110812033006/http://www.xctsg.org/archives/1319)
 ![banner](https://web.archive.org/web/20110927185546im_/http://www.xctsg.org/wp-content/uploads/2009/12/banner.jpg)
 # 立人乡村图书馆基本书目
 我们的基本书目按照阅读人群分为六个部分：幼儿、小学生、初中生、高中生、中小学教师、其他乡村居民。
