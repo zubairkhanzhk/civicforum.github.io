@@ -6,7 +6,7 @@
 1. 樊建川 -- 建川博物馆 [http://www.jc-museum.cn/](http://www.jc-museum.cn/) 注意是非https，2003-至今
 2. 许志永 -- 新公民运动。2013年遭监禁，2017年7月刑满释放
 5. 李英强 -- 立人乡村图书馆，2008-2014，[纽约时报访谈-李英强：从立人到福音](https://cn.nytimes.com/china/20140926/cc26liyingqiang/)
-6. 黄琦 -- 六四天网[http://www.64tianwang.com/](http://www.64tianwang.com/)，1999-至今，（请大家敦促其改为https）
+6. 黄琦 -- 六四天网[http://www.64tianwang.com/](http://www.64tianwang.com/)，1999-至今，（请大家敦促其改为https），黄琦于2000，2008，2016被捕
 
 ### 境外
 3. [国际特赦组织](https://zh.amnesty.org/)，1961-至今，发布全球各地区年度人权报告
