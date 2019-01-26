@@ -1,4 +1,6 @@
-[Douban List Original](https://www.douban.com/doulist/46432949/)
+[豆瓣原文](https://www.douban.com/doulist/46432949/)
+
+提示：用Home快速返回页首，用Ctrl+F在页内查找书名
 
 1
  
