@@ -94,5 +94,6 @@
 7. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__
 8. [下架及未再版简体中文书目](./2019/removed_books.md)
 9. 一个关于数字集权、审查、监视的博客 [Medium@iYouPort](https://medium.com/@iyouport)
+10. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
 
 更新日期2019/1/29
