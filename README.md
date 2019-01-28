@@ -94,7 +94,9 @@
 7. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__
 8. [下架及未再版简体中文书目](./2019/removed_books.md)
 11. [豆瓣不存在的书和电影 端点星小项目](https://terminus2049.github.io/Not-exist-in-douban/)
-9. 一个关于数字集权、审查、监视的博客 [Medium@iYouPort](https://medium.com/@iyouport)
+9. 一个关于数字集权、审查、监视的博客 [Medium@iYouPort](https://medium.com/@iyouport), [Steemit@iyouport](https://steemit.com/@iyouport)
 10. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
+12. 立人 [立人大学](https://lirencollege.xyz/), [立大文集](https://lrc.gitbooks.io/lrc/content/)
+13. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 
 更新日期2019/1/29
