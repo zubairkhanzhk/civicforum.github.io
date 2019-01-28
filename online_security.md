@@ -1,6 +1,6 @@
 # [civicforum.github.io](https://civicforum.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/17
+本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/29
 
 目录
 * [安全意识](#mindset)
@@ -36,6 +36,8 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件[https://protonmail.com/](https://protonmail.com/)  注意, 你需要牢记密码, 因为没人可以帮你找回密码，其它匿名邮箱[Openmailbox](https://www.openmailbox.org/), [Yandex Mail](https://mail.yandex.com/)。 如果你的目的是注册网站，可以考虑临时邮箱[http://www.bccto.me](http://www.bccto.me). 一些安全邮件提供商[https://imgchr.com/i/F7CsJK](https://imgchr.com/i/F7CsJK) 
 11. 此外, 再推荐几个相对安全的应用; MEGA [https://mega.nz/](https://mega.nz/)  是一个加密的云盘. [Uploadfiles.io](https://Uploadfiles.io)是一个匿名文件共享应用; Tor [https://www.torproject.org/](https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE [https://wire.com](https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram [https://telegram.org/](https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen [https://unseen.is/](https://unseen.is/)
 12. 除此之外, 你的输入法也可能被用来监视你, 因此不推荐使用国产的输入法.
+13. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), 
+14. 阅后即焚 [https://naive.cf](https://naive.cf/) [https://privnote.com](https://privnote.com/)
 
 ## 【相关资源】<a name="resources"></a>
 
