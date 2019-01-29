@@ -97,5 +97,6 @@
 9. 一个关于数字集权、审查、监视的博客 [Medium@iYouPort](https://medium.com/@iyouport), [Steemit@iyouport](https://steemit.com/@iyouport)
 10. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
 12. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
+13. 本站项目 [当代中文自由派学者列表](./liberal_intellectual.md)
 
 更新日期2019/1/29
