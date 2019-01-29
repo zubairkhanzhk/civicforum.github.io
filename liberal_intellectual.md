@@ -17,7 +17,7 @@
 * 李沉简 北大教授 生命科学学院（已辞职？）[个人主页](http://scholar.pku.edu.cn/cjli/home)
 * 夏业良 原北京大学经济系教授 （已辞职）[维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92) [YouTube个人频道](https://www.youtube.com/channel/UCkHvF7S9qpBudjVvrjqz-8g)
 * 刘仲敬 博士 作家 独立学者 [Medium@刘仲敬](https://medium.com/@LiuZhongjing) [维基百科](https://zh.wikipedia.org/zh-hans/%E5%8A%89%E4%BB%B2%E6%95%AC)
-* 袁剑 南开大学社会学系研究生毕业, 曾任教于南京理工大学，后历任《价值》杂志主笔、《董事会》杂志主编。现为独立评论人。
+* 袁剑 南开大学社会学系硕士毕业, 曾任教于南京理工大学，后历任《价值》杂志主笔、《董事会》杂志主编。现为独立评论人。
 * 鲍鹏山 上海大学教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0)
 * 周保松 香港中文大学政治与行政系学系教授 著有 《自由人的平等政治》（論述自由主義） [维基百科](https://zh.wikipedia.org/zh/%E5%91%A8%E4%BF%9D%E6%9D%BE) [Medium@周保松](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
 * 陈健民 香港中文大学社会学系副教授 雨伞运动"占中三子"之一 [个人网站](https://chankinman.wordpress.com/), [维基百科](https://zh.wikipedia.org/zh/%E9%99%B3%E5%81%A5%E6%B0%91_(%E7%A4%BE%E6%9C%83%E5%AD%B8%E8%80%85))
