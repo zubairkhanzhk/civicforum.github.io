@@ -66,3 +66,9 @@
 * 专栏作家 (观念的普及 思想的传播) 许知远 梁文道 等。
 
 __注:__ (自)媒体人、专栏作家、活动家往往比学者有更大的公众影响力，但不属于本项目目标。
+
+## 去哪儿找？
+2. [中国百位公共知识分子 “改革开放”40 年感言](https://terminus2049.github.io/archive/2018/12/29/ganyan.html)
+1. [博讯的“百大知识分子”和乌有之乡的“十大汉奸”](https://www.voachinese.com/a/article-20111231-uncutnews-wuyou-136478543/792370.html)
+3. [独立中文笔会](https://www.chinesepen.org/)
+4. [《零八宪章》签名人员名单汇总](https://chinadigitaltimes.net/space/%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E7%AD%BE%E5%90%8D%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%E6%B1%87%E6%80%BB%EF%BC%88%E5%85%B1%E4%BA%94%E6%89%B9%EF%BC%89)
