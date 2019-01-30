@@ -6,8 +6,8 @@
 * 鲍鹏山 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
 * 秦晖 香港中文大学 历史学家，经济学家 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A7%A6%E6%99%96)
 * 郑也夫 北京大学社会学系 教授 [北大官网介绍](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=586)
-* 张博树 前社科院研究员 著有《中国宪政改革可行性研究报告》 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%A0%E5%8D%9A%E6%A0%91)
-* 陈丹青 前清华大学艺术系教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92)
+* 张博树 原社科院研究员 著有《中国宪政改革可行性研究报告》 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%A0%E5%8D%9A%E6%A0%91)
+* 陈丹青 画家、文艺评论家，原清华大学美术学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92)
 * 张千帆 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
 * 资中筠 (1930-)，女，资深学者、翻译家，中国社会科学院荣誉学部委员，曾任中国社会科学院美国研究所所长，《美国研究》杂志主编。资中筠精通英语及法语，是国际政治及美国研究专家。
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
