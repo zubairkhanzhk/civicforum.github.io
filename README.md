@@ -85,14 +85,13 @@
 ## 夹带私货
 1. [鲍鹏山 商君书](https://www.youtube.com/watch?v=wxbZ6ujPxOg)
     > 商鞅变法不是你以为的立根木桩子赏人金块以促进法治的故事。这个视频是让你了解中国延续2000年并且就在你我身边活着的核心统治术。同时，也是秦始皇焚书坑儒、杀豪强的核心逻辑。在此，尤其警告那些参与建设GFW和天网工程的人，不要把活干绝了，升级的时候进度慢一点活干得差一点。墙修得太好的话，你们这些修墙者就是第一个被杀的对象。千万别幼稚的以为自己是国家的主人。
-1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf) 
+14. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf) 
     > 通过这份报告，你能理解几乎整个国家机器的设计理念、运作方式、各种弊端，区别真正的解决方案和敷衍的补救措施，这样当你亲历或目睹各类社会问题时不至于因信息封锁而产生以下幼稚的想法，如“这个弊端竟然没有人发现，我要向组织汇报！”，“中央的本意是好的，就是被下面人执行歪了”，“中国的种种问题都是那些走资派当权派钻马列毛主义的空子造成的，应该革他们的命”。一旦避开这些注定会碰壁的弯路，你能更早明白自己该怎么做。
-2. [编程随想的博客](https://program-think.blogspot.com/)
-3. [一场风的博客](https://yichangfeng.home.blog)
-4. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/), 编程随想推荐 [博文](https://program-think.blogspot.com/2014/01/share-books.html) [Github完整书单](https://github.com/programthink/books) 
-5. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
 6. 渗透与颠覆的教科书(全英文无中字) [Yuri Bezmenov: Deception Was My Job (Complete)](https://www.youtube.com/watch?v=y3qkf3bajd4), [Yuri Bezmenov: Psychological Warfare Subversion & Control of Western Society (Complete)](https://www.youtube.com/watch?v=5gnpCqsXE8g)
     > Yuri Bezmenov是前苏联KGB间谍、驻印度外交官，70年代秘密叛逃至加拿大。这部摄制于80年代初的视频包含他的个人经历和KGB如何按步骤改变自由社会的价值观并最终颠覆其政权。学习渗透和颠覆的基本框架的目的是帮你避免被内外势力操纵、利用，被当作代理人(有用的白痴Useful Idiot)或被宣传机器所蛊惑。而在夺权之后，那些革命分子大多都被当作不稳定因素被各种名义肉体消灭或整肃。这类模式不仅出现在许多华约国家，在中共党史中也屡见不鲜：大量中共地下党员在49年到文革期间的各种运动中被清洗，文革中的红卫兵和造反派头子也都被以'上山下乡'或判刑等方式整肃、迫害，这些都不是偶然。 __尤其是今天的马列毛左狂热分子及其背后的煽动者应以史为鉴，想好退路，勿重蹈覆辙。__
+2. 最好的博客没有之一 [编程随想的博客](https://program-think.blogspot.com/)
+4. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/), 编程随想推荐 [博文](https://program-think.blogspot.com/2014/01/share-books.html) [Github完整书单](https://github.com/programthink/books) 
+5. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
 7. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__ ，立人大学 [立大记忆](https://lirencollege.xyz/), [立大文集](https://lrc.gitbooks.io/lrc/content/)
 8. [下架及未再版简体中文书目](./2019/removed_books.md)
 11. [豆瓣不存在的书和电影 端点星小项目](https://terminus2049.github.io/Not-exist-in-douban/)
@@ -100,5 +99,6 @@
 10. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
 12. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 13. 本站项目 [当代中文自由派学者列表](./liberal_intellectual.md)
+3. [一场风的博客](https://yichangfeng.home.blog)
 
 更新日期2019/1/29
