@@ -4,7 +4,7 @@
 (排名不分先后) 更新日期 2019年1月30日
 
 * 鲍鹏山 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
-* 秦晖 香港中文大学 历史学家，经济学家 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A7%A6%E6%99%96)
+* 秦晖 香港中文大学政治与行政学系， 原清华大学历史系教授，历史学家，经济学家 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A7%A6%E6%99%96)
 * 郑也夫 北京大学社会学系 教授 [北大官网介绍](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=586)
 * 张博树 原社科院研究员 著有《中国宪政改革可行性研究报告》 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%A0%E5%8D%9A%E6%A0%91)
 * 陈丹青 画家、文艺评论家，原清华大学美术学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92)
