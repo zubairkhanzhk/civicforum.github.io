@@ -5,9 +5,9 @@
 (排名不分先后) 更新日期 2019年2月5日
 
 ### 文史哲
-* 鲍鹏山 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
-* 秦晖 香港中文大学政治与行政学系， 原清华大学历史系教授，历史学家，经济学家 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A7%A6%E6%99%96)
-* 刘仲敬 作家 独立学者 [Medium@刘仲敬](https://medium.com/@LiuZhongjing) [维基百科](https://zh.wikipedia.org/zh-hans/%E5%8A%89%E4%BB%B2%E6%95%AC)
+* 鲍鹏山（1963- ） 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
+* 秦晖（1953- ） 香港中文大学政治与行政学系， 原清华大学历史系教授，历史学家，经济学家 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A7%A6%E6%99%96)
+* 刘仲敬（1974- ） 作家 独立学者 [Medium@刘仲敬](https://medium.com/@LiuZhongjing) [维基百科](https://zh.wikipedia.org/zh-hans/%E5%8A%89%E4%BB%B2%E6%95%AC)
 * 高华（1954－2011）南京大学历史系教授 著有 《红太阳是怎样升起的》 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%AB%98%E5%8D%8E)
 * 殷海光（1919－1969）国立台湾大学哲学系教授 台湾戒严时期最有名的自由主义学者之一 [维基百科](https://zh.wikipedia.org/zh/%E6%AE%B7%E6%B5%B7%E5%85%89)
 * 余英時（1930－） 天津人，祖籍安徽潛山，中華民國中央研究院院士、美國哲學會院士，引領中華民國思想史研究數十年，他的大部分職業生涯都在美國，克魯格人文與社會科學終身成就獎、首屆唐獎「漢學獎」得主。
@@ -23,10 +23,10 @@
 
 ### 经济、金融
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
-* 茅于轼 天则经济研究所荣誉理事长，人文经济学会理事长。代表作有《择优分配原理》、《中国人的道德前景》。 获得米尔顿·弗里德曼自由奖。[维基百科](https://zh.wikipedia.org/zh-hans/%E8%8C%85%E4%BA%8E%E8%BD%BC)
-* 厉以宁 北大教授 经济学系 北大光华管理学院院长，著名学生 李克强、李源潮和陆昊。[维基百科](https://zh.wikipedia.org/zh-hans/%E5%8E%89%E4%BB%A5%E5%AE%81)
-* 夏业良 原北京大学经济系教授 （已辞职）[维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92) [YouTube个人频道](https://www.youtube.com/channel/UCkHvF7S9qpBudjVvrjqz-8g)
-* 吴敬琏 经济学家，工作于国务院发展研究中心市场经济研究所 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%90%B4%E6%95%AC%E7%90%8F)
+* 茅于轼（1929-） 天则经济研究所荣誉理事长，人文经济学会理事长。代表作有《择优分配原理》、《中国人的道德前景》。 获得米尔顿·弗里德曼自由奖。[维基百科](https://zh.wikipedia.org/zh-hans/%E8%8C%85%E4%BA%8E%E8%BD%BC)
+* 厉以宁（1930-） 北大教授 经济学系 北大光华管理学院院长，著名学生 李克强、李源潮和陆昊。[维基百科](https://zh.wikipedia.org/zh-hans/%E5%8E%89%E4%BB%A5%E5%AE%81)
+* 夏业良（1953-） 原北京大学经济系教授 （已辞职）[维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92) [YouTube个人频道](https://www.youtube.com/channel/UCkHvF7S9qpBudjVvrjqz-8g)
+* 吴敬琏（1930-） 经济学家，工作于国务院发展研究中心市场经济研究所 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%90%B4%E6%95%AC%E7%90%8F)
 * 陈志武(1962-) 耶鲁大学管理学院金融学教授 生于湖南，美籍华人 [耶鲁个人主页](http://som.yale.edu/zhiwu-chen), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%BF%97%E6%AD%A6)
 * 张维迎 北京大学经济系教授 北京大学国家发展研究院。
 * 胡星斗（1962－）北京理工大学经济学教授。 
@@ -36,34 +36,34 @@
 
 ### 社会学
 * 郑也夫 北京大学社会学系 教授 [北大官网介绍](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=586)
-* 周孝正 中国人民大学法律社会学系任教授、中国人民大学法律社会学研究所所长、中国人民大学国际关系学院外交系主任 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%91%A8%E5%AD%9D%E6%AD%A3)
-* 袁剑 南开大学社会学系硕士毕业, 曾任教于南京理工大学，后历任《价值》杂志主笔、《董事会》杂志主编，现为独立评论人，著有《奇迹的黄昏》《大拐点》等。
-* 陈健民 香港中文大学社会学系副教授 雨伞运动"占中三子"之一 [个人网站](https://chankinman.wordpress.com/), [维基百科](https://zh.wikipedia.org/zh/%E9%99%B3%E5%81%A5%E6%B0%91_(%E7%A4%BE%E6%9C%83%E5%AD%B8%E8%80%85))
+* 周孝正（1947-） 中国人民大学法律社会学系任教授、中国人民大学法律社会学研究所所长、中国人民大学国际关系学院外交系主任 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%91%A8%E5%AD%9D%E6%AD%A3)
+* 袁剑（1964-） 南开大学社会学系硕士毕业, 曾任教于南京理工大学，后历任《价值》杂志主笔、《董事会》杂志主编，现为独立评论人，著有《奇迹的黄昏》《大拐点》等。
+* 陈健民（1959-） 香港中文大学社会学系副教授 雨伞运动"占中三子"之一 [个人网站](https://chankinman.wordpress.com/), [维基百科](https://zh.wikipedia.org/zh/%E9%99%B3%E5%81%A5%E6%B0%91_(%E7%A4%BE%E6%9C%83%E5%AD%B8%E8%80%85))
 * 何清涟（1956－），女，中国湖南邵阳人、作家、中国经济社会学者。现今流亡美国，曾任职于湖南财经学院、暨南大学和《深圳法制报》报社。长期从事中国当代经济社会问题研究。 
 
 ### 政治学
 * 资中筠 (1930-)，女，资深学者、翻译家，中国社会科学院荣誉学部委员，曾任中国社会科学院美国研究所所长，《美国研究》杂志主编。资中筠精通英语及法语，是国际政治及美国研究专家。
-* 张博树 原社科院研究员 著有《中国宪政改革可行性研究报告》 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%A0%E5%8D%9A%E6%A0%91)
-* 周保松 香港中文大学政治与行政系学系教授 著有 《自由人的平等政治》（論述自由主義） [维基百科](https://zh.wikipedia.org/zh/%E5%91%A8%E4%BF%9D%E6%9D%BE) [Medium@周保松](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
-* 蔡霞 中央党校教授
+* 张博树（1955-） 原社科院研究员 著有《中国宪政改革可行性研究报告》 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%A0%E5%8D%9A%E6%A0%91)
+* 周保松（1969-） 香港中文大学政治与行政系学系教授 著有 《自由人的平等政治》（論述自由主義） [维基百科](https://zh.wikipedia.org/zh/%E5%91%A8%E4%BF%9D%E6%9D%BE) [Medium@周保松](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
+* 蔡霞 中央党校教授，主要研究方向为政党意识形态、执政党建设。[百度百科](https://baike.baidu.com/item/%E8%94%A1%E9%9C%9E/465027)
 * 刘军宁（1961－），政治学家，文化部中国文化研究所研究员，原中国社科院政治学所研究员。[维基百科](https://zh.wikipedia.org/zh-hans/%E5%88%98%E5%86%9B%E5%AE%81)
 * 吴国光（1957－），山东临沂人，政治学家、政论家、当代中国自由主义知识分子 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%90%B4%E5%9B%BD%E5%85%89)
 * 白邦瑞，Michael Pillsbury (1945－ ), 中国问题作家，美国国防政策顾问，前美国政府官员，美国外交关系协会和国际战略研究所的成员。[维基百科](https://zh.wikipedia.org/zh-hans/%E7%99%BD%E9%82%A6%E7%91%9E)
 
 ### 法律
-* 张千帆 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
-* 贺卫方 北京大学法学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E8%B4%BA%E5%8D%AB%E6%96%B9) 
-* 许章润 清华大学法学院教授 《我们当下的恐惧与期待》[学院官方个人主页](https://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html), [维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6)
+* 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
+* 贺卫方（1960-） 北京大学法学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E8%B4%BA%E5%8D%AB%E6%96%B9) 
+* 许章润（1962-） 清华大学法学院教授 《我们当下的恐惧与期待》[学院官方个人主页](https://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html), [维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6)
 * 丛日云 中国政法大学政治与公共管理学院教授
 * 梁木生（1958-2018），华中科技大学法学院教授，[纪念文章](https://www.jianshu.com/p/b718c669c38e) [百度百科](https://baike.baidu.com/item/%E6%A2%81%E6%9C%A8%E7%94%9F)
 
 ### 自然科学
-* 李沉简 北大教授 生命科学学院（已辞职？）[个人主页](http://scholar.pku.edu.cn/cjli/home)
+* 李沉简 北大教授 生命科学学院（已辞职？）[个人主页](http://scholar.pku.edu.cn/cjli/home) [Cousera Bio](https://www.coursera.org/instructor/chenjianli)
 * 管惟炎(1928-2003)，物理学家，历任中国科学院物理研究所所长，中国科学技术大学校长、研究生院院长，中国物理学会常务理事、秘书长。在执掌中科院物理研究所和中国科学技术大学期间推动了一部分制度改革。在学术上以低温物理、超导研究知名。[维基百科](https://zh.wikipedia.org/zh-hans/%E7%AE%A1%E6%83%9F%E7%82%8E) 
 * 方励之（1936－2012），天体物理学家，生于北京，籍贯浙江杭州，美籍华人，1957年被打成“内定右派”开除党籍，1984-1987中国科学技术大学副校长，离开中国前曾任中国科学院学部委员，1990-2012美国亚利桑那大学任职天体物理学教授。[维基百科](https://zh.wikipedia.org/zh-hans/%E6%96%B9%E5%8A%B1%E4%B9%8B)，其妻为曾慧燕，经常被称为方励之夫妇。
   
 ### 艺术
-* 陈丹青 画家、文艺评论家，原清华大学美术学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92)
+* 陈丹青（1953-） 画家、文艺评论家，原清华大学美术学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E9%99%88%E4%B8%B9%E9%9D%92)
 * 沙叶新（1939－2018），回族，编剧、作家、文学评论 [维基百科](https://zh.wikipedia.org/wiki/%E6%B2%99%E5%8F%B6%E6%96%B0)
 
   
