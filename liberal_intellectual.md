@@ -55,6 +55,7 @@
 * 吴国光（1957－），山东临沂人，政治学家、政论家、当代中国自由主义知识分子 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%90%B4%E5%9B%BD%E5%85%89)
 * 白邦瑞，Michael Pillsbury (1945－ ), 中国问题作家，美国国防政策顾问，前美国政府官员，美国外交关系协会和国际战略研究所的成员。[维基百科](https://zh.wikipedia.org/zh-hans/%E7%99%BD%E9%82%A6%E7%91%9E)
 * 张鸣（1957-），中国人民大学政治学系教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%B5%E9%B3%B4_(%E5%AD%B8%E8%80%85))
+* 吴介民（1962-），台湾政治学学者，现时任职中央研究院社会学研究所副研究员，台湾守护民主平台协会成员。 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%90%B3%E4%BB%8B%E6%B0%91)
 
 ### 法律
 * 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
