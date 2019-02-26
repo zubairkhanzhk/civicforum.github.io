@@ -2,7 +2,7 @@
 
 提示：在本页Ctrl+F输入名字，如没有包含，可去[这里](https://github.com/civicforum/civicforum.github.io/issues/52)输入。
 # 当代中文自由派学者列表
-(排名不分先后) 更新日期 2019年2月5日
+(排名不分先后) 更新日期 2019年2月25日
 
 ### 文史哲
 * 鲍鹏山（1963- ） 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
