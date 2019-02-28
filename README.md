@@ -79,6 +79,7 @@
 3. [Center for Civic Education](http://www.civiced.org/)
 4. ['Civics Education: Learning About the Rights & Obligations of Citizenship,' NEA.](http://www.nea.org/civicseducation)
 5. （英文）8项价值观测试 [8values.github.io](https://8values.github.io/)
+8. 政治光谱测试 [www.politiscales.net/zh_CN/]( https://www.politiscales.net/zh_CN/)
 6. （英文）特朗普承诺跟踪[Trump Tracker](https://trumptracker.github.io/)
 7. 开源政治宣言[OpenPolitics Manifesto](https://openpolitics.org.uk/manifesto/)
 
