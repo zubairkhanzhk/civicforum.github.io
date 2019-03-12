@@ -2,7 +2,7 @@
 
 提示：在本页Ctrl+F输入名字，如没有包含，可去[这里](https://github.com/civicforum/civicforum.github.io/issues/52)输入。
 # 当代中文自由派学者列表
-(排名不分先后) 更新日期 2019年2月25日
+(排名不分先后) 更新日期 2019年3月13日
 
 ### 文史哲
 * 鲍鹏山（1963- ） 上海开放大学中文系教授 作家 [著名讲座《商君书》](https://www.youtube.com/watch?v=eYHB5iKKzt0), [维基百科](https://zh.wikipedia.org/zh-hans/%E9%B2%8D%E9%B9%8F%E5%B1%B1)
@@ -22,6 +22,7 @@
 * 朱学勤（1952-），上海大学历史系教授，主要研究领域为社会思想史，课题有近代中国社会变迁与渐进变革思潮等。中国思想界自由主义代表人物，南方系重要的人物。[维基百科](https://zh.wikipedia.org/zh-hans/%E6%9C%B1%E5%AD%A6%E5%8B%A4) 
 * 杨奎松(1953-)，中共党史研究专家，华东师范大学历史学系教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E5%A5%8E%E6%9D%BE)
 * 余杰（1973-），人文及政治题材作家，[维基百科](https://zh.wikipedia.org/zh-hans/%E4%BD%99%E6%9D%B0)
+* 杨宪益（1915－2009），生于天津，祖籍安徽盱眙（今属江苏省淮安市）鲍集镇梁集村，著名翻译家、外国文学研究专家、诗人。 [维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E5%AE%AA%E7%9B%8A)
 
 ### 经济、金融
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
