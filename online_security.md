@@ -1,6 +1,6 @@
 # [civicforum.github.io](https://civicforum.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/29
+本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/3/13
 
 目录
 * [安全意识](#mindset)
@@ -39,6 +39,7 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 13. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), 
 14. 阅后即焚 [https://naive.cf](https://naive.cf/) [https://privnote.com](https://privnote.com/)
 15. 浏览器漏洞测试，JavaScripts WebRTC泄露IP地址 [漏洞描述](https://lcx.cc/post/4490/), 测试地址1 [ip.voidsec.com](https://ip.voidsec.com/), 测试地址2 [browserleaks.com/webrtc](https://browserleaks.com/webrtc), 测试地址3 [ipleak.org](https://ipleak.org/)
+16. 如果长期访问一个网站则存在 __时区泄漏__ 问题，[描述及补救措施](./2019/timezone_leak.md), [品葱原帖](https://pincong.rocks/article/575)
 
 ## 【相关资源】<a name="resources"></a>
 
