@@ -103,5 +103,6 @@
 13. 本站项目 [当代中文自由派学者列表](./liberal_intellectual.md)
 14. 政见 [cnpolitics.org](http://cnpolitics.org)
 3. [一场风的博客](https://yichangfeng.home.blog)
+16. [寒冬](https://zh.bitterwinter.org/) 一本關於中國宗教自由及人權狀況的雜誌 
 
-更新日期2019/2/7
+更新日期2019/3/17
