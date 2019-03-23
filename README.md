@@ -111,6 +111,6 @@
 3. Ian Shapiro, 耶鲁大学公开课：政治的道德基础, [YouTube英文](https://politicalscience.yale.edu/people/ian-shapiro)， [YouTube中文备份](https://www.youtube.com/watch?v=alfUOk8Y5aY&list=PLE58J6pk7kv5S5xa5Ml6r9lbGE_3OQ12H&index=7)
 4. 政治科学概论(英) [Saylor Academy POLSC101: Introduction to Political Science](https://learn.saylor.org/course/polsc101)
 5. [Richard Baum (包瑞嘉)](https://en.wikipedia.org/wiki/Richard_Baum), Fall and Rise of China, [The Great Course Plus](https://www.thegreatcoursesplus.com/show/fall_and_rise_of_china), [YouTube List](https://www.youtube.com/playlist?list=PL7Df0vIaExSCZsIRgTaInNE7NuWcYBB4m)
-6. [东吴大学：马英九讲座教授专题演讲频道](https://www.youtube.com/watch?v=TlsIrNq-yKg)
+6. [東吳大學：马英九讲座教授专题演讲频道](https://www.youtube.com/channel/UCmSksxhv3HUYfkbO8eCbNag)
 
 更新日期2019/3/23
