@@ -112,6 +112,7 @@
 * [ 【转】文革离我们并不远——文革定性研讨会论文辑要 ](https://pincong.rocks/article/802)
 * [ 专栏文章: 大情报意味着什么？ ](https://pincong.rocks/article/23)
 * [ 【转载】最近比较火的“大连民营企业主 张释文 虚开发票被捕事件” ](https://pincong.rocks/article/182)
+* [(转) 端传媒采访网络审查员：以後決定互聯網平台發展的，是審核團隊](https://pincong.rocks/article/963)
 
 ---
 更新 2019/3/17
