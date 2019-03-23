@@ -9,10 +9,11 @@
 6. 黄琦 -- 六四天网[http://www.64tianwang.com/](http://www.64tianwang.com/)，1999-至今，（请大家敦促其改为https），黄琦于2000，2008，2016被捕
 
 ### 境外
-3. [国际特赦组织](https://zh.amnesty.org/)，1961-至今，发布全球各地区年度人权报告
-1. [中国人权](https://www.hrichina.org/), 1989-至今，在纽约和香港设有办公室
-2. [民主中国](http://minzhuzhongguo.org/), 请网友敦促其改用https
+1. [国际特赦组织](https://zh.amnesty.org/)，1961-至今，发布全球各地区年度人权报告
+2. [中国人权](https://www.hrichina.org/), 1989-至今，在纽约和香港设有办公室
+3. [民主中国](http://minzhuzhongguo.org/), 请网友敦促其改用https
+4. [寒冬](https://zh.bitterwinter.org/), 2018-至今，意大利 都靈
 
 在[这里](https://github.com/civicforum/civicforum.github.io/issues/51)补充
 
-更新日期 2019/1/29
+更新日期 2019/3/31
