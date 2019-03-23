@@ -27,7 +27,7 @@
 * [ 中国网络防火墙是如何运作的？ ](https://pincong.rocks/question/1355)
 * [ 《亂彈遊記》 十年中國看深圳 ](https://pincong.rocks/article/793)
 * [ 【品葱备份】安邦这样的企业是如何爆发式做大的？ ](https://pincong.rocks/question/128)
-
+* [如何才能善用YouTube？](https://pincong.rocks/question/2432)
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
