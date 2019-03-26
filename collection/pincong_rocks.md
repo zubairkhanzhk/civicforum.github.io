@@ -29,6 +29,7 @@
 * [ 【品葱备份】安邦这样的企业是如何爆发式做大的？ ](https://pincong.rocks/question/128)
 * [如何才能善用YouTube？](https://pincong.rocks/question/2432)
 * [专题：中国高校信息员制度](https://pincong.rocks/article/979)
+* [「Zhi來zhi去」文化淺評](https://pincong.rocks/article/999)
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
