@@ -75,3 +75,4 @@
 ## 源
 1. [维基百科：许章润](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6)
 2. [清华大学法学院网站许章润简介](http://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html)
+3. [佚名：许章润非官方言论集](https://xuzhangrun.gitlab.io/)
