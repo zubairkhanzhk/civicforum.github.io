@@ -119,6 +119,7 @@
 * [【转载】最近比较火的“大连民营企业主 张释文 虚开发票被捕事件” ](https://pincong.rocks/article/182)
 * [(转) 端传媒采访网络审查员：以後決定互聯網平台發展的，是審核團隊](https://pincong.rocks/article/963)
 * [摘录：逃避自由](https://pincong.rocks/article/1057)
+* [王炳章：《一个基督徒为法轮功、中功人权的辩护》](https://pincong.rocks/article/898)
 
 ---
 更新 2019/3/29
