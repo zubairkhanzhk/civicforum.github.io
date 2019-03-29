@@ -10,7 +10,7 @@
 11. [许章润：政基于德，治本乎法——关于法律、政体与文明的对话 ](https://chinadigitaltimes.net/chinese/2018/09/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E6%94%BF%E5%9F%BA%E4%BA%8E%E5%BE%B7%EF%BC%8C%E6%B2%BB%E6%9C%AC%E4%B9%8E%E6%B3%95-%E5%85%B3%E4%BA%8E%E6%B3%95%E5%BE%8B%E3%80%81%E6%94%BF%E4%BD%93/), 2018-09
 3. [许章润：我们当下的恐惧与期待](https://theinitium.com/article/20180724-opinion-xuzhangrun-fear-hope/), 端传媒, [天则所官网](http://unirule.cloud/index.php?c=article&id=4625) 2018-07-24
 5. [许章润：保卫“改革开放” ](https://chinadigitaltimes.net/chinese/2018/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E4%BF%9D%E5%8D%AB%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/), 中国数字时代， 2018-1-9
-7. [许章润的盛世危言——中国在临界点上](https://chinadigitaltimes.net/chinese/2017/01/%E6%B3%95%E8%A1%8C%E9%9B%86%E5%BD%95%EF%BD%9C%E8%AE%B8%E7%AB%A0%E6%B6%A6%E7%9A%84%E7%9B%9B%E4%B8%96%E5%8D%B1%E8%A8%80-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%B4%E7%95%8C%E7%82%B9%E4%B8%8A/), 2017-01
+7. [許章潤：盛世危言─中國在臨界點上](https://www.storm.mg/article/218533), 风传媒, 2017-02-02
 6. [许章润：重申共和国这一伟大理念 ](https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/), 2016-02
 20. [许章润：对2015年的五点期许  ](https://chinadigitaltimes.net/chinese/2015/01/%E5%B9%B3%E8%AF%B4%EF%BD%9C%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E5%AF%B92015%E5%B9%B4%E7%9A%84%E4%BA%94%E7%82%B9%E6%9C%9F%E8%AE%B8/)，平说,2015-01
 25. [许章润：开启第四波改革开放 ](https://chinadigitaltimes.net/chinese/2014/10/%E7%88%B1%E6%80%9D%E6%83%B3-%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E5%BC%80%E5%90%AF%E7%AC%AC%E5%9B%9B%E6%B3%A2%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/),  爱思想, 2014-10
