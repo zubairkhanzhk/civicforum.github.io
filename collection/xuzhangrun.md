@@ -36,6 +36,9 @@
 3. [许章润的法理课](https://www.youtube.com/watch?v=KQwDrlkEb48)
 4. [思想界对话：2017是中国的临界点吗？](https://www.youtube.com/watch?v=bwSkb0ywpGs)
 
+## 书
+1. [坐待天明](https://web.archive.org/web/20150429041819/https://book.douban.com/subject/20435400/)许章润， 广西师大出版社, 2013-1, ISBN: 9787549527335
+
 ---
 # 许章润 简历
 教授、博士生导师
