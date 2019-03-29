@@ -66,3 +66,4 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 10. [社会工程学扫盲(系列)](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
 
 ### 最后，祝大家翻墙快乐！
+![Anonymous](https://upload.wikimedia.org/wikipedia/commons/a/a6/Anonymous_emblem.svg)
