@@ -63,7 +63,7 @@
 ### 法律
 * 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
 * 贺卫方（1960-） 北京大学法学院教授 [维基百科](https://zh.wikipedia.org/zh-hans/%E8%B4%BA%E5%8D%AB%E6%96%B9) 
-* 许章润（1962-） 清华大学法学院教授 《我们当下的恐惧与期待》[学院官方个人主页](https://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html), [维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6)
+* 许章润（1962-） 清华大学法学院教授 《我们当下的恐惧与期待》[学院官方个人主页](https://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html), [维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6), [非官方言论集](https://xuzhangrun.gitlab.io/)， [非官方言论集-本站镜像](https://civicforum.github.io/collection/xuzhangrun.html)
 * 丛日云 中国政法大学政治与公共管理学院教授
 * 梁木生（1958-2018），华中科技大学法学院教授，[纪念文章](https://www.jianshu.com/p/b718c669c38e) [百度百科](https://baike.baidu.com/item/%E6%A2%81%E6%9C%A8%E7%94%9F)
 
