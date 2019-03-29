@@ -112,5 +112,6 @@
 4. 政治科学概论(英) [Saylor Academy POLSC101: Introduction to Political Science](https://learn.saylor.org/course/polsc101)
 5. [Richard Baum (包瑞嘉)](https://en.wikipedia.org/wiki/Richard_Baum), Fall and Rise of China, [The Great Course Plus](https://www.thegreatcoursesplus.com/show/fall_and_rise_of_china), [YouTube List](https://www.youtube.com/playlist?list=PL7Df0vIaExSCZsIRgTaInNE7NuWcYBB4m)
 6. [東吳大學：马英九讲座教授专题演讲频道](https://www.youtube.com/channel/UCmSksxhv3HUYfkbO8eCbNag)
+7. [美国社会的宗教理解【3集】(王忠欣：南京大学)_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av44562149)
 
 更新日期2019/3/23
