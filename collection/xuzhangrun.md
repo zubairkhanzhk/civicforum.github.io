@@ -27,7 +27,7 @@
 17. [许章润：这次第，浮世苍生 ](https://chinadigitaltimes.net/chinese/2012/05/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E8%BF%99%E6%AC%A1%E7%AC%AC%EF%BC%8C%E6%B5%AE%E4%B8%96%E8%8B%8D%E7%94%9F/)，2012-05
 21. [许章润: 两位前辈 ](https://chinadigitaltimes.net/chinese/2012/05/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E4%B8%A4%E4%BD%8D%E5%89%8D%E8%BE%88/)， 2012-05
 26. [许章润： 以优良政体承载国家理性——在复旦大学哲学院人文智慧讲堂“新年文化论坛”的演讲 ](https://chinadigitaltimes.net/chinese/2012/05/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E4%BB%A5%E4%BC%98%E8%89%AF%E6%94%BF%E4%BD%93%E6%89%BF%E8%BD%BD%E5%9B%BD%E5%AE%B6%E7%90%86%E6%80%A7-%E5%9C%A8%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/), 2012-05
-16. [许纪霖, 许章润：天数 ](https://chinadigitaltimes.net/chinese/2012/03/%E8%AE%B8%E7%BA%AA%E9%9C%96-%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E5%A4%A9%E6%95%B0/)， 2012-03
+16. [许章润：天数——被诊断肝癌以后](https://www.chinesepen.org/blog/archives/125463)， 出处：《天涯》2012年第4期
 
 ## 视频
 1. [许章润 市民社会与私法精神【完整版】](https://www.youtube.com/watch?v=P-ROb1H31V4)
