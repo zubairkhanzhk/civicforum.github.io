@@ -38,6 +38,7 @@
 
 ## 书
 1. [坐待天明](https://web.archive.org/web/20150429041819/https://book.douban.com/subject/20435400/)许章润， 广西师大出版社, 2013-1, ISBN: 9787549527335
+2. [六事集]()
 
 ---
 # 许章润 简历
@@ -57,22 +58,31 @@
 
 ## 学术成果
 ### (一) 专著
-1. The Confucian Misgivings
-2. 《说法·活法·立法——关于法律之为一种人世生活方式及其意义》
-3. 《法学家的智慧——关于法律的知识品格与人文类型》
-4. 《监狱学》 
+1. [The Confucian Misgivings--Liang Shu-ming’s Narrative About Law](https://web.archive.org/web/20190330000528/https://www.springer.com/gb/book/9789811045295)
+2. [《法学家的智慧——关于法律的知识品格与人文类型》](https://web.archive.org/web/20190329234802/https://book.douban.com/subject/1255210/), 《汉语法学文从》
+3. [《说法·活法·立法——关于法律之为一种人世生活方式及其意义》](https://web.archive.org/web/20190329234804/https://book.douban.com/subject/1255454/), 《汉语法学文从》
+5. [《政體與文明--立國‧立憲‧立教‧立人》](https://web.archive.org/web/20190329235053/https://book.douban.com/subject/26883554/), [《思想共和國》丛书](https://web.archive.org/web/20190329234643/https://book.douban.com/series/45414)
+6. [汉语法学论纲](https://web.archive.org/web/20151003081854/http://book.douban.com/subject/26266833/), 2014-12, ISBN: 9787549560042
+19. 《监狱学》 , [《刑罚学》](https://web.archive.org/web/20190329235454/https://book.douban.com/subject/1274220/) 1999-01, ISBN: 9787562017646
+15. [国家理性与优良政体--关于「中国问题」的「中国意识」](https://web.archive.org/web/20190329234647/https://book.douban.com/series/256), [《思想共和國》丛书](https://web.archive.org/web/20190329234643/https://book.douban.com/series/45414)
+
 
 ### (二) 主编
-5. 《萨维尼与历史法学派》
 6. 《法律信仰——中国语境及其意义》
-7. 《法律的中国经验与西方样本》
-8. 《认真对待人权》
 9. 《法律：理性与历史——澳大利亚的理念、制度与实践》
 10. 《犯罪学》
-11. 《汉语法学文从》
+11. [《汉语法学文从》](https://web.archive.org/web/20190329234647/https://book.douban.com/series/256)（[《法学家的智慧》](https://web.archive.org/web/20190329234802/https://book.douban.com/subject/1255210/), [《说法活法立法》](https://web.archive.org/web/20190329234804/https://book.douban.com/subject/1255454/)）
 12. 《西方法哲学文库》
-13. 《法意丛刊》
- 
+13. [《法意丛刊》](https://web.archive.org/web/20130120095139/http://book.douban.com/series/7084)（共七册: [《犯罪：社会与文化》](https://web.archive.org/web/20130122092042/http://book.douban.com/subject/1552297), [《法律信仰》](https://web.archive.org/web/20190329232729/https://book.douban.com/subject/1254293/),[《萨维尼与历史法学派》](https://web.archive.org/web/20190329234208/https://book.douban.com/subject/1057376/), [《法律的中国经验与西方样本》](https://web.archive.org/web/20130120095205/http://book.douban.com/subject/1524881), [《罗斯科・庞德：法律与社会》](https://web.archive.org/web/20130122091909/http://book.douban.com/subject/1074915)， [《认真对待人权》](https://web.archive.org/web/20130601091912/http://book.douban.com/subject/1215857/)， [《妇女对法律的反抗:美国“罗伊”案判决前堕胎法的理论与实践》](https://web.archive.org/web/20190329234123/https://book.douban.com/subject/1214837/)）
+14. 《历史法学》由清华大学法学院主办，许章润教授主编，法律出版社刊行，每年出版两辑。
+
+### 论文集、译作
+16. [《哈佛法律评论: 法理学精粹》](https://web.archive.org/web/20121205173620/http://book.douban.com/subject/6040920/),  2011-1, ISBN: 9787511809261
+18. [《法理学》](https://web.archive.org/web/20120103164800/http://book.douban.com/subject/2351338/), ISBN: 9787503678929
+20. [《 何谓现代，谁之中国？ 》](https://web.archive.org/web/20150306014312/http://book.douban.com/subject/25961833/)
+21. [《论立法与法学的当代使命》](https://web.archive.org/web/20130123154643/http://book.douban.com/subject/1247705/),  ISBN: 9787800838514
+22. [重思胡适](https://web.archive.org/web/20190329235948/https://book.douban.com/subject/26176512/)
+
 ## 座右铭 
 半日静坐，半日读书；宽其程限，紧着工夫。
 
