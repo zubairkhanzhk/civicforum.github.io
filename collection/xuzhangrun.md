@@ -14,6 +14,7 @@
 7. [許章潤：盛世危言─中國在臨界點上](https://www.storm.mg/article/218533), 风传媒, 2017-02-02
 6. [许章润：重申共和国这一伟大理念 ](https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/), 2016-02
 27. [许章润、任剑涛 、单世联：中国现代国家转型的愿景与路径](https://www.chinesepen.org/blog/archives/41630) ,《重思国家》新书发布会暨读书沙龙, 2015年11月13日
+28. [许章润：让法学语言“中国化”](https://web.archive.org/web/20180807174108/http://culture.people.com.cn/n/2015/0321/c22219-26727954.html), 新京报, 2015-03
 20. [许章润：对2015年的五点期许  ](https://chinadigitaltimes.net/chinese/2015/01/%E5%B9%B3%E8%AF%B4%EF%BD%9C%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E5%AF%B92015%E5%B9%B4%E7%9A%84%E4%BA%94%E7%82%B9%E6%9C%9F%E8%AE%B8/)，平说,2015-01
 25. [许章润：开启第四波改革开放 ](https://chinadigitaltimes.net/chinese/2014/10/%E7%88%B1%E6%80%9D%E6%83%B3-%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E5%BC%80%E5%90%AF%E7%AC%AC%E5%9B%9B%E6%B3%A2%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/),  爱思想, 2014-10
 23. [许章润：绩效、法治与政治认同 ](https://chinadigitaltimes.net/chinese/2014/07/%E7%88%B1%E6%80%9D%E6%83%B3-%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E7%BB%A9%E6%95%88%E3%80%81%E6%B3%95%E6%B2%BB%E4%B8%8E%E6%94%BF%E6%B2%BB%E8%AE%A4%E5%90%8C/),  爱思想, 2014-07
