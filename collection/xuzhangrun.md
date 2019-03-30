@@ -70,10 +70,11 @@
 ### (二) 主编
 9. [《法律：理性与历史——澳大利亚的理念、制度与实践》](./https://web.archive.org/web/20190330150705/https://book.douban.com/subject/1247690/), 2000-11,  ISBN: 9787800837548
 10. 《犯罪学》
-11. [《汉语法学文从》](https://web.archive.org/web/20190329234647/https://book.douban.com/series/256)（[《法学家的智慧》](https://web.archive.org/web/20190329234802/https://book.douban.com/subject/1255210/), [《说法活法立法》](https://web.archive.org/web/20190329234804/https://book.douban.com/subject/1255454/)）
+11. [《汉语法学文从》](https://web.archive.org/web/20190329234647/https://book.douban.com/series/256)（著： [《法学家的智慧》](https://web.archive.org/web/20190329234802/https://book.douban.com/subject/1255210/), [《说法活法立法》](https://web.archive.org/web/20190329234804/https://book.douban.com/subject/1255454/)）
 12. 《西方法哲学文库》
 13. [《法意丛刊》](https://web.archive.org/web/20130120095139/http://book.douban.com/series/7084)（共七册: [《犯罪：社会与文化》](https://web.archive.org/web/20130122092042/http://book.douban.com/subject/1552297), [《法律信仰——中国语境及其意义》](https://web.archive.org/web/20190329232729/https://book.douban.com/subject/1254293/),[《萨维尼与历史法学派》](https://web.archive.org/web/20190329234208/https://book.douban.com/subject/1057376/), [《法律的中国经验与西方样本》](https://web.archive.org/web/20130120095205/http://book.douban.com/subject/1524881), [《罗斯科・庞德：法律与社会》](https://web.archive.org/web/20130122091909/http://book.douban.com/subject/1074915)， [《认真对待人权》](https://web.archive.org/web/20130601091912/http://book.douban.com/subject/1215857/)， [《妇女对法律的反抗:美国“罗伊”案判决前堕胎法的理论与实践》](https://web.archive.org/web/20190329234123/https://book.douban.com/subject/1214837/)）
 14. 《历史法学》由清华大学法学院主办，许章润教授主编，法律出版社刊行，每年出版两辑。
+15. 《清华法学》
 
 ### 论文集、译作
 16. [《哈佛法律评论: 法理学精粹》](https://web.archive.org/web/20121205173620/http://book.douban.com/subject/6040920/),  2011-1, ISBN: 9787511809261
