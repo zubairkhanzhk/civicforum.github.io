@@ -73,7 +73,7 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 5. [美国《首席信息安全官手册》2018 pdf](https://www.cio.gov/assets/files/CISO_Handbook.pdf)
 
 ### 信息安全博客
-1. [https://evilanne.github.io/](https://evilanne.github.io/)
+1. [EvilAnne's Blog](https://evilanne.github.io/)
 2. [安全圈 info](https://www.anquanquan.info/) 接地气的信息安全导航
 3. [RiseUp.net](https://riseup.net/zh) 独立自主的团体，总部位于西雅图，成员来自世界各地。
 
