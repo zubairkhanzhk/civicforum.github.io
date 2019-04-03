@@ -65,5 +65,17 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 9. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)  
 10. [社会工程学扫盲(系列)](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
 
+### 信息安全意识
+1. [活动家数字安全手册](https://www.chinarightsia.org/?p=2213)， [中国权利在行动](https://www.chinarightsia.org)
+2. [非暴力抗争培训课程](https://www.chinarightsia.org/?cat=16)， [中国权利在行动](https://www.chinarightsia.org)
+3. [简单个人信息安全模型](https://www.chinarightsia.org/?p=869)， [中国权利在行动](https://www.chinarightsia.org)
+4. [办公环境个人信息安全手册](http://liubin.org/everyones-security/) （防止身边泄密）
+5. [美国《首席信息安全官手册》2018 pdf](https://www.cio.gov/assets/files/CISO_Handbook.pdf)
+
+### 信息安全博客
+1. [https://evilanne.github.io/](https://evilanne.github.io/)
+2. [安全圈 info](https://www.anquanquan.info/) 接地气的信息安全导航
+3. [RiseUp.net](https://riseup.net/zh) 独立自主的团体，总部位于西雅图，成员来自世界各地。
+
 ### 最后，祝大家翻墙快乐！
 ![Anonymous](https://upload.wikimedia.org/wikipedia/commons/a/a6/Anonymous_emblem.svg)
