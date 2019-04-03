@@ -1,6 +1,6 @@
 # [civicforum.github.io](https://civicforum.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/3/13
+本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/4/3
 
 目录
 * [安全意识](#mindset)
