@@ -2,6 +2,7 @@
 
 ## 原创
 * [事实判断与价值判断 ](https://pincong.rocks/article/781)
+* [说说你知道的中文自由派学者（持续更新）](https://pincong.rocks/article/560)
 * [我们在墙外的讨论有什么意义？ ](https://pincong.rocks/article/313)
 * [社會科學是甚麼？能算是科學嗎？ ](https://pincong.rocks/question/2206)
 * [為什麼有伊斯蘭文明，有基督教文明，印度教文明，沒有無神論文明 ](https://pincong.rocks/question/2189)
