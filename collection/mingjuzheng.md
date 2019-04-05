@@ -1,6 +1,8 @@
-# 视频
+# 明居正
 
-## 三民主义
+## 视频节目
+
+### 三民主义
 1. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之1](https://www.youtube.com/watch?v=n228jDdCE6E)
 2. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之2](https://www.youtube.com/watch?v=xSP_efFo4mw)
 3. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之3](https://www.youtube.com/watch?v=1_jSqmacu9Y)
@@ -15,7 +17,7 @@
 12. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之12](https://www.youtube.com/watch?v=CEOyxpUDiKE)
 13. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之13](https://www.youtube.com/watch?v=6-2BiyU7pTw)
 
-## 文革
+### 文革
 1. [中原大地世纪回眸：论文化大革命之一（1/2）](https://www.youtube.com/watch?v=gjeR8yB54Es)
 2. [中原大地世纪回眸：论文化大革命之一（2/2）](https://www.youtube.com/watch?v=hR2FMgqnpQM)
 3. [中原大地世纪回眸：论文化大革命之二（1/2）](https://www.youtube.com/watch?v=IN2uFiHsDAE)
@@ -27,11 +29,11 @@
 9. [中原大地世纪回眸：论文化大革命之五（1/2）](https://www.youtube.com/watch?v=DCxR0FbzuP4)
 10. [中原大地世纪回眸：论文化大革命之五（2/2）](https://www.youtube.com/watch?v=UlRsgpL3kWk)
 
-## 论台独
+### 论台独
 1. [明居正：论"台独"(1/2)](https://www.youtube.com/watch?v=Ej1KVF9DREw)
 2. [明居正：论"台独"(2/2)](https://www.youtube.com/watch?v=0RoTsikdYkQ)
 
-## [中共箝制新闻自由](https://www.youtube.com/playlist?list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN)
+### [中共箝制新闻自由](https://www.youtube.com/playlist?list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN)
 1. [中原大地世纪回眸：中共箝制新闻自由之1](https://www.youtube.com/watch?v=jjEX9E636gc&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=2&t=0s)
 2. [中原大地世纪回眸：中共箝制新闻自由之2](https://www.youtube.com/watch?v=Z9_W6sXJZ2M&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=3&t=0s)
 3. [中原大地世纪回眸：中共箝制新闻自由之3](https://www.youtube.com/watch?v=6t4nkD9bOis&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=4&t=0s)
