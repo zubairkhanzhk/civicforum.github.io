@@ -64,6 +64,7 @@
 * [有哪些介绍台湾历史和政治的好书？ ](https://pincong.rocks/question/1952)
 * [【品葱备份】为什么中国不开放土地私有制？ ](https://pincong.rocks/article/28)
 * [现在台湾如何对大陆民众进行宣传（心理战）？ ](https://pincong.rocks/question/1836)
+* [转 二十多年来伊斯兰教研究述论， 作者：哈宝玉 来源：《新疆社会科学》2006年第2期](https://pincong.rocks/article/1153)
 
 ## 品葱
 * [ 我对新品葱的一点期待 ](https://pincong.rocks/article/9)
