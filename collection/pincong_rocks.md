@@ -33,6 +33,10 @@
 * [专题：中国高校信息员制度](https://pincong.rocks/article/979)
 * [「Zhi來zhi去」文化淺評](https://pincong.rocks/article/999)
 * [文革之后的参与者们是怎么和解的？](https://pincong.rocks/question/3039)
+* [关于中国穆斯林的一些看法](https://pincong.rocks/article/1088)
+* [从蛋糕店案说美国的联邦权与州权历史](https://pincong.rocks/article/1108)
+* [你今天「支」了吗？](https://pincong.rocks/article/1148)
+* [中美貿易戰之解讀－與友人的閒談](https://pincong.rocks/article/1168)
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
@@ -122,6 +126,7 @@
 * [(转) 端传媒采访网络审查员：以後決定互聯網平台發展的，是審核團隊](https://pincong.rocks/article/963)
 * [摘录：逃避自由](https://pincong.rocks/article/1057)
 * [王炳章：《一个基督徒为法轮功、中功人权的辩护》](https://pincong.rocks/article/898)
+* [转，中国权利在行动 | 非暴力抗争培训课程，简单的个人信息安全模型，活动家数字安全手册](https://pincong.rocks/article/1099)
 
 ---
 更新 2019/3/29
