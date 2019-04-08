@@ -127,7 +127,7 @@
 * [(转) 端传媒采访网络审查员：以後決定互聯網平台發展的，是審核團隊](https://pincong.rocks/article/963)
 * [摘录：逃避自由](https://pincong.rocks/article/1057)
 * [王炳章：《一个基督徒为法轮功、中功人权的辩护》](https://pincong.rocks/article/898)
-* [转，中国权利在行动 | 非暴力抗争培训课程，简单的个人信息安全模型，活动家数字安全手册](https://pincong.rocks/article/1099)
+* [转，中国权利在行动, 非暴力抗争培训课程，简单的个人信息安全模型，活动家数字安全手册](https://pincong.rocks/article/1099)
 
 ---
 更新 2019/3/29
