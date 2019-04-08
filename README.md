@@ -104,6 +104,8 @@
 16. [一场风的博客](https://yichangfeng.home.blog)
 17. [寒冬](https://zh.bitterwinter.org/) 一本關於中國宗教自由及人權狀況的雜誌 
 18. [端傳媒Initium Media](https://theinitium.com)
+19. [纵揽中国](http://www.chinainperspective.com)
+20. [博客：NHK纪录片精选](https://kamonka.blogspot.com/)
 
 ## 政治历史公开课
 1. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)
