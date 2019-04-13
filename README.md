@@ -117,5 +117,6 @@
 7. [美国社会的宗教理解【3集】(王忠欣：南京大学)_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av44562149)
 8. [明居正系列电视讲座: 中原大地世纪回眸](./collection/mingjuzheng.md)
 9. [丛日云 西方文明通论 之 西方政治文明【11集完整版】](https://www.bilibili.com/video/av38633390/)
+10. [秦晖: 中国思想史公开课 39节](https://www.bilibili.com/video/av7183298/)
 
 更新日期2019/3/23
