@@ -40,6 +40,7 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 13. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), [openload.co](https://openload.co), [https://anonfiles.com](https://anonfiles.com) 
 17. 文本搬运与备份 [https://telegra.ph](https://telegra.ph), [安全上传图片至imgur图床](https://pincong.rocks/article/523), [https://www196.lunapic.com/](https://www196.lunapic.com/), [https://memegenerator.net/](https://memegenerator.net/)
 14. 阅后即焚 [https://naive.cf](https://naive.cf/) [https://privnote.com](https://privnote.com/)
+15. 短链接 [https://bit.do/](https://bit.do/), [https://goo.gl/](https://goo.gl/), [https://tiny.cc/](https://tiny.cc/), [https://bitly.com/](https://bitly.com/)
 15. 浏览器漏洞测试，JavaScripts WebRTC泄露IP地址 [漏洞描述](https://lcx.cc/post/4490/), 测试地址1 [ip.voidsec.com](https://ip.voidsec.com/), 测试地址2 [browserleaks.com/webrtc](https://browserleaks.com/webrtc), 测试地址3 [ipleak.org](https://ipleak.org/)
 16. 如果长期访问一个网站则存在 __时区泄漏__ 问题，[描述及补救措施](./2019/timezone_leak.md), [品葱原帖](https://pincong.rocks/article/575)
 
