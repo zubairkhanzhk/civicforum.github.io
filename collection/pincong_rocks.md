@@ -64,6 +64,7 @@
 * [如何看待臺灣2020年總統選舉最新民調？（2019年2月13-18日） ](https://pincong.rocks/question/2257)
 * [大家怎麼看這篇文章：《告大陸同胞書》─大陸的前途在於民主自由 ](https://pincong.rocks/question/1507)
 * [感受韩流：回顾几个月前韩国瑜竞选高雄市长时的气氛 ](https://pincong.rocks/article/882)
+* [[創作] 偉大的高雄人—我看高雄市長選舉 （PTT網友Blurry之雄文備份）](https://pincong.rocks/article/1238)
 * [中國的選擇不止分裂或大一統——科普國家構成形式並談談個人主張 ](https://pincong.rocks/article/220)
 * [除了先入籍第三方国家之外还有没有更快的办法入籍中华民国 ](https://pincong.rocks/question/2451)
 * [有哪些介绍台湾历史和政治的好书？ ](https://pincong.rocks/question/1952)
@@ -80,6 +81,7 @@
 * [ 《 小二，來碗上品蔥花湯! 謝謝! 》 淺談新品蔥的社區文化和未來展望 ](https://pincong.rocks/article/927)
 * [为了保证新品葱的存续，我们决定公开分享网站数据](https://pincong.rocks/article/98)
 * [ 欲无杂草，必种庄稼——论如何提高品葱问答及文章的质量 ](https://pincong.rocks/article/491)
+* [告品葱同胞书](https://pincong.rocks/question/3428)
 
 ## 技术流
 * [ 新品葱SQL数据库在线查询 ](https://pincong.rocks/article/540)
