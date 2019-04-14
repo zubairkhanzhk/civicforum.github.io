@@ -16,11 +16,12 @@
 * [郝柏村專訪三：稱國共一起領導抗戰有欠公道](https://www.youtube.com/watch?v=29VadiLPsjo), BBC News 中文, 2015-7-2
 * [郝柏村專訪全部文字記錄](https://www.bbc.com/zhongwen/simp/indepth/2015/07/150702_hao_intv_script_for_yt), BBC News 中文, 2015-7-2
 * [【央廣】專訪郝柏村解讀蔣中正日記（93分鐘完整版，）](https://www.youtube.com/watch?v=YP-XrUdI62o), 2011-7-27
-* [郝柏村紐約談對日抗戰真相(全文)](https://www.youtube.com/watch?v=_ILFOHPZnB4), 纽约法拉盛, 2016-9-23
+* [郝柏村紐約談對日抗戰真相(全文)](https://www.youtube.com/watch?v=_ILFOHPZnB4), [抗日战史 郝伯村发言](https://www.youtube.com/watch?v=l5xNxnASUTk), 纽约法拉盛, 2016-9-23 
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(1) 英苏两国效法中国抗击纳粹](https://www.youtube.com/watch?v=N6EXqPxQg6Q), 自由亚洲电台， 2016-10-6
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(2) 蒋中正的信念与性格](https://www.youtube.com/watch?v=d_gAfzBwqCE), 自由亚洲电台， 2016-10-6
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(3) 国民党的统一理念](https://www.youtube.com/watch?v=70tGhh2K4u8), 自由亚洲电台， 2016-10-6
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(4) 谁统战谁？](https://www.youtube.com/watch?v=m8OY3fYsLl8), 自由亚洲电台， 2016-10-6
+* [方軍採訪郝柏村談抗日戰爭](https://www.youtube.com/watch?v=dOYBkPARkQ8), 口述台湾老兵， 2016-10-8
 
 ## 著作
 * 《無愧》
