@@ -48,3 +48,6 @@
 * [郝柏村 行政院数位影音资料馆（台）](https://video.ey.gov.tw/?eyp=archive&ccid=2&cid=2010000&eid=2012500&ptype=list&title=%E9%83%9D%E6%9F%8F%E6%9D%91)
 * [郝柏村 天下文化](https://bookzone.cwgv.com.tw/authors/details/404)
 
+## 相关链接
+* [hbc1919.gitlab.io](https://hbc1919.gitlab.io)
+* [hbc1919.github.io](https://hbc1919.github.io)
