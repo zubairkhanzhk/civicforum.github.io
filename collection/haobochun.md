@@ -22,6 +22,8 @@
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(3) 国民党的统一理念](https://www.youtube.com/watch?v=70tGhh2K4u8), 自由亚洲电台， 2016-10-6
 * [华盛顿手记·专访郝柏村: 抗战真相与统一理念(4) 谁统战谁？](https://www.youtube.com/watch?v=m8OY3fYsLl8), 自由亚洲电台， 2016-10-6
 * [方軍採訪郝柏村談抗日戰爭](https://www.youtube.com/watch?v=dOYBkPARkQ8), 口述台湾老兵， 2016-10-8
+* [少康戰情室_20141119_152_1(TVBS DMDD)](https://www.youtube.com/watch?v=7dzos8auXWY), TVBS, 2014-11-19
+* [專訪／郝柏村：打不垮的軍隊 會被罵垮-udn tv](https://www.youtube.com/watch?v=jGn6HYytvP0), 2013-8-9
 
 ## 著作
 * 《無愧》
