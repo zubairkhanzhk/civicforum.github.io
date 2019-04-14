@@ -16,6 +16,7 @@
 * [郝柏村專訪三：稱國共一起領導抗戰有欠公道](https://www.youtube.com/watch?v=29VadiLPsjo), BBC News 中文, 2015-7-2
 * [郝柏村專訪全部文字記錄](https://www.bbc.com/zhongwen/simp/indepth/2015/07/150702_hao_intv_script_for_yt), BBC News 中文, 2015-7-2
 * [【央廣】專訪郝柏村解讀蔣中正日記（93分鐘完整版，）](https://www.youtube.com/watch?v=YP-XrUdI62o), 2011-7-27
+* [郝柏村紐約談對日抗戰真相(全文)](https://www.youtube.com/watch?v=_ILFOHPZnB4), 纽约法拉盛, 2016-9-23
 
 ## 著作
 * 《無愧》
