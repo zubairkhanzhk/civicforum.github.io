@@ -130,6 +130,8 @@
 * [摘录：逃避自由](https://pincong.rocks/article/1057)
 * [王炳章：《一个基督徒为法轮功、中功人权的辩护》](https://pincong.rocks/article/898)
 * [转，中国权利在行动, 非暴力抗争培训课程，简单的个人信息安全模型，活动家数字安全手册](https://pincong.rocks/article/1099)
+* [東京大學最震撼入學致詞：等待你們的是不公的社會](https://pincong.rocks/article/1260)
+* [探讨中国文化是不是与民主相抵触](https://pincong.rocks/article/1287)
 
 ---
-更新 2019/4/9
+更新 2019/4/21
