@@ -38,6 +38,14 @@
 * [从蛋糕店案说美国的联邦权与州权历史](https://pincong.rocks/article/1108)
 * [你今天「支」了吗？](https://pincong.rocks/article/1148)
 * [中美貿易戰之解讀－與友人的閒談](https://pincong.rocks/article/1168)
+* [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
+* [你第一次聽過六四天安門事件，是在什麼狀況？當時的心情如何呢](https://pincong.rocks/question/3637)
+* [石锤爆料：中共网络评论员和网络宣传员培训班和培训师](https://pincong.rocks/article/1315)
+* [开放区小站和r/China_irl的背景及安全性浅评](https://pincong.rocks/article/1339)
+* [说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348)
+* [如何评价这份“改革开放40年”推荐书单？](https://pincong.rocks/question/3651)
+* [你认为民主政体下的选举制度，是否应设立女性保障名额？](https://pincong.rocks/question/3721)
+* [如何看待复旦大学知和社（性别平权社团）爆出信息员？](https://pincong.rocks/question/3711)
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
@@ -132,6 +140,8 @@
 * [转，中国权利在行动, 非暴力抗争培训课程，简单的个人信息安全模型，活动家数字安全手册](https://pincong.rocks/article/1099)
 * [東京大學最震撼入學致詞：等待你們的是不公的社會](https://pincong.rocks/article/1260)
 * [探讨中国文化是不是与民主相抵触](https://pincong.rocks/article/1287)
+* [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
+* [微信800敏感词](https://pincong.rocks/article/1343)
 
 ---
 更新 2019/4/21
