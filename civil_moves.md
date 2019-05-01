@@ -14,6 +14,7 @@
 3. [民主中国](http://minzhuzhongguo.org/), 请网友敦促其改用https
 4. [寒冬](https://zh.bitterwinter.org/), 2018-至今，意大利 都靈
 5. [中国权利在行动](https://www.chinarightsia.org)， 2013-至今，美国 纽约
+6. [自由之家](https://freedomhouse.org), 1941-至今，美国 纽约 华盛顿DC
 
 在[这里](https://github.com/civicforum/civicforum.github.io/issues/51)补充
 
