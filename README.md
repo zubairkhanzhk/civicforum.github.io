@@ -127,5 +127,6 @@
 7. [美国社会的宗教理解【3集】(王忠欣：南京大学)_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av44562149)
 9. [丛日云 西方文明通论 之 西方政治文明【11集完整版】](https://www.bilibili.com/video/av38633390/)
 10. [秦晖: 中国思想史公开课 39节](https://www.bilibili.com/video/av7183298/)
+11. [冯友兰: 中国哲学简史](https://web.archive.org/web/20190501155312/http://www.aisixiang.com/thinktank/fengyoulan.html)， 爱思想存档
 
 更新日期2019/3/23
