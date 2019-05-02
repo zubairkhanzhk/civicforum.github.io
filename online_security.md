@@ -43,6 +43,7 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 15. 短链接 [https://bit.do/](https://bit.do/), [https://goo.gl/](https://goo.gl/), [https://tiny.cc/](https://tiny.cc/), [https://bitly.com/](https://bitly.com/)
 15. 浏览器漏洞测试，JavaScripts WebRTC泄露IP地址 [漏洞描述](https://lcx.cc/post/4490/), 测试地址1 [ip.voidsec.com](https://ip.voidsec.com/), 测试地址2 [browserleaks.com/webrtc](https://browserleaks.com/webrtc), 测试地址3 [ipleak.org](https://ipleak.org/)
 16. 如果长期访问一个网站则存在 __时区泄漏__ 问题，[描述及补救措施](./2019/timezone_leak.md), [品葱原帖](https://pincong.rocks/article/575)
+17. 无需互联网仅靠蓝牙链接的通讯软件 [Firechat](https://www.opengarden.com/firechat/) 防止政府大规模断网
 
 ## 【相关资源】<a name="resources"></a>
 
