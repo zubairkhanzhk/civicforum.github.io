@@ -97,11 +97,11 @@
 12. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
 13. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 4. 最好的博客没有之一 [编程随想的博客](https://program-think.blogspot.com/)
-15. 学术普及网站：政见 [cnpolitics.org](http://cnpolitics.org), [菜市場政治學](https://whogovernstw.org/), [巷仔口社会学](https://twstreetcorner.org/)
+15. 学术普及网站：政见 [cnpolitics.org](http://cnpolitics.org), [菜市場政治學](https://whogovernstw.org/), [巷仔口社会学](https://twstreetcorner.org/), [故事](https://gushi.tw/)
 16. [一场风的博客](https://yichangfeng.home.blog)
 17. [寒冬](https://zh.bitterwinter.org/) 一本關於中國宗教自由及人權狀況的雜誌 
 18. [端傳媒Initium Media](https://theinitium.com)
-19. [纵揽中国](http://www.chinainperspective.com)
+19. [纵揽中国](https://www.chinainperspective.com), [中国战略分析](http://zhanlve.org)
 
 ## 视频
 1. [鲍鹏山 商君书](https://www.youtube.com/watch?v=wxbZ6ujPxOg)
