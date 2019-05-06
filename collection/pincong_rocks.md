@@ -47,6 +47,8 @@
 * [如何评价这份“改革开放40年”推荐书单？](https://pincong.rocks/question/3651)
 * [你认为民主政体下的选举制度，是否应设立女性保障名额？](https://pincong.rocks/question/3721)
 * [如何看待复旦大学知和社（性别平权社团）爆出信息员？](https://pincong.rocks/question/3711)
+* [一个90后女留学生眼中的法轮功](https://pincong.rocks/article/1384)
+* [四月记](https://pincong.rocks/article/1456)
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
@@ -98,14 +100,14 @@
 * [ 新品葱程序使用 docker 自动部署 ](https://pincong.rocks/article/703)
 * [ 新品葱网站大数据洞见（不断更新） ](https://pincong.rocks/article/554)
 * [新品葱用户活跃时间在线分析](https://pincong.rocks/article/582)
-* [ 新品蔥嚴重漏洞報告 時區泄漏+非自然人用戶揭發+最佳安全獎 ](https://pincong.rocks/article/575)
-* [ 品葱建站以来一百多天,高票内容汇总(品葱游戏币作为评价指标) ](https://pincong.rocks/article/771)
-* [ 如何通过Tor上传图片至Imgur图床以免敏感信息被记录 ](https://pincong.rocks/article/523)
-* [ 都9102年了，上网时候的安全事项你做了几件？（不定期更新） ](https://pincong.rocks/article/408)
+* [新品蔥嚴重漏洞報告 時區泄漏+非自然人用戶揭發+最佳安全獎](https://pincong.rocks/article/575)
+* [品葱建站以来一百多天,高票内容汇总(品葱游戏币作为评价指标)](https://pincong.rocks/article/771)
+* [如何通过Tor上传图片至Imgur图床以免敏感信息被记录](https://pincong.rocks/article/523)
+* [都9102年了，上网时候的安全事项你做了几件？（不定期更新）](https://pincong.rocks/article/408)
 
 ## 文摘
-* [文摘：为什么煽动宣传会有效果——睡眠者效应 ](https://pincong.rocks/article/900)
-* [许允仁是谁？《难啊，对薄熙来的处置会经得起历史检验吗》的作者是谁？ ](https://pincong.rocks/question/2674)
+* [文摘：为什么煽动宣传会有效果——睡眠者效应](https://pincong.rocks/article/900)
+* [许允仁是谁？《难啊，对薄熙来的处置会经得起历史检验吗》的作者是谁？](https://pincong.rocks/question/2674)
 * [往事：薄熙来无期判决书全文发布 ](https://pincong.rocks/question/1992)
 * [严家伟：亲历中华民国首次全民普选记实（1946年制宪国大大选-成都选区） ](https://pincong.rocks/article/84)
 * [梁文道：我在麵館裏學到的道理 ](https://pincong.rocks/article/334)
@@ -143,6 +145,11 @@
 * [探讨中国文化是不是与民主相抵触](https://pincong.rocks/article/1287)
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 * [微信800敏感词](https://pincong.rocks/article/1343)
+* [邓聿文 : 总体性集权完成：2018年中国政治发展报告](https://pincong.rocks/article/1429)
+* [义和团和八国联军这段历史写的最为有趣的当属秦晖老师](https://pincong.rocks/article/1439)
+* 荒谬的文化大革命： [革命口号](https://pincong.rocks/article/1467), [忠字舞/造反舞](https://pincong.rocks/article/1466)
+* [CIA的《简单破坏战地手册》 1944 Simple Sabotage Field Manual, by Strategic Services](https://pincong.rocks/article/1413)
+* [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 
 ---
 更新 2019/4/30
