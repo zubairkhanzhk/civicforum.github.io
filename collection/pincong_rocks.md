@@ -82,6 +82,7 @@
 * [【品葱备份】为什么中国不开放土地私有制？ ](https://pincong.rocks/article/28)
 * [现在台湾如何对大陆民众进行宣传（心理战）？ ](https://pincong.rocks/question/1836)
 * [转 二十多年来伊斯兰教研究述论， 作者：哈宝玉 来源：《新疆社会科学》2006年第2期](https://pincong.rocks/article/1153)
+* [视频：虎嘯之變-經國先生在台的政戰之路](https://pincong.rocks/article/1483)
 
 ## 品葱
 * [ 我对新品葱的一点期待 ](https://pincong.rocks/article/9)
@@ -93,6 +94,7 @@
 * [为了保证新品葱的存续，我们决定公开分享网站数据](https://pincong.rocks/article/98)
 * [ 欲无杂草，必种庄稼——论如何提高品葱问答及文章的质量 ](https://pincong.rocks/article/491)
 * [告品葱同胞书](https://pincong.rocks/question/3428)
+* [【RFC-058】 成立开发者委员会](https://pincong.rocks/article/1377)
 
 ## 技术流
 * [ 新品葱SQL数据库在线查询 ](https://pincong.rocks/article/540)
@@ -104,6 +106,7 @@
 * [品葱建站以来一百多天,高票内容汇总(品葱游戏币作为评价指标)](https://pincong.rocks/article/771)
 * [如何通过Tor上传图片至Imgur图床以免敏感信息被记录](https://pincong.rocks/article/523)
 * [都9102年了，上网时候的安全事项你做了几件？（不定期更新）](https://pincong.rocks/article/408)
+* [[原创教程]在Ubuntu上安裝Tor与Shadowsocks实现安全上网](https://pincong.rocks/article/1350)
 
 ## 文摘
 * [文摘：为什么煽动宣传会有效果——睡眠者效应](https://pincong.rocks/article/900)
@@ -147,9 +150,14 @@
 * [微信800敏感词](https://pincong.rocks/article/1343)
 * [邓聿文 : 总体性集权完成：2018年中国政治发展报告](https://pincong.rocks/article/1429)
 * [义和团和八国联军这段历史写的最为有趣的当属秦晖老师](https://pincong.rocks/article/1439)
-* 荒谬的文化大革命： [革命口号](https://pincong.rocks/article/1467), [忠字舞/造反舞](https://pincong.rocks/article/1466)
+* [[老照片]1966年8月起，红卫兵“打、砸、抢”！——作者：德兰](https://pincong.rocks/article/1412)
+* [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义 (小粉红画像)](https://pincong.rocks/article/1415)
+* [讨论：新媒体时代的议题设置之——如何操控意识（节选）](https://pincong.rocks/article/1373)
+* 荒谬的文化大革命： [革命口号](https://pincong.rocks/article/1467), [忠字舞/造反舞](https://pincong.rocks/article/1466), [红色歌曲](https://pincong.rocks/question/3955)
 * [CIA的《简单破坏战地手册》 1944 Simple Sabotage Field Manual, by Strategic Services](https://pincong.rocks/article/1413)
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
+* [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
+* 
 
 ---
 更新 2019/4/30
