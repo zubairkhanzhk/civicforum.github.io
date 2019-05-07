@@ -83,6 +83,7 @@
 * [现在台湾如何对大陆民众进行宣传（心理战）？ ](https://pincong.rocks/question/1836)
 * [转 二十多年来伊斯兰教研究述论， 作者：哈宝玉 来源：《新疆社会科学》2006年第2期](https://pincong.rocks/article/1153)
 * [视频：虎嘯之變-經國先生在台的政戰之路](https://pincong.rocks/article/1483)
+* [【转载】-《返校》背後的血與淚：台灣「戒嚴時代」的 38 年零 56 天](https://pincong.rocks/article/1484)
 
 ## 品葱
 * [ 我对新品葱的一点期待 ](https://pincong.rocks/article/9)
@@ -157,7 +158,6 @@
 * [CIA的《简单破坏战地手册》 1944 Simple Sabotage Field Manual, by Strategic Services](https://pincong.rocks/article/1413)
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
-* 
 
 ---
 更新 2019/4/30
