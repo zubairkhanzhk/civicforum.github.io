@@ -63,6 +63,7 @@
 * 明居正（1953年6月20日－），中華民國政治學家，臺灣臺北人，祖籍廣東三水，外省第二代，中国国民党党员，現為國立臺灣大學政治學系教授。以研究中國共產黨政治和派系知名。 [维基百科](https://zh.wikipedia.org/zh/%E6%98%8E%E5%B1%85%E6%AD%A3), [本站搜集言论](./collection/mingjuzheng.md)
 * 赖岳谦（），實踐大學教授、國立政治大學外交學系兼任副教授，曾任台灣親民黨發言人，國際情勢專家。台灣名嘴中少有的睿智、務實、開明的學者，在國際情勢研究領域業有專攻。[台湾百科知识](https://www.ngm.com.tw/wiki/%E8%B3%B4%E5%B2%B3%E8%AC%99)， [FB主页](https://www.facebook.com/bernard.lai.10)
 * 任剑涛（1962年8月－），曾任中山大学政治与公共事务管理学院院长、教授、博士生导师；美国哈佛大学燕京学社访问学者; 曾任中国人民大学国际关系学院政治学系二级教授、博士生导师。现为清华大学社会科学学院政治学系教授，教育部“长江学者”特聘教授。其主要研究领域为政治哲学、西方政治思想史、中国政治以及当代中国政府与政治研究。代表作：《政治哲学讲演录》《伦理政治研究》《从自在到自觉——中国国民性研究》《中国现代思想脉络中的自由主义》等。[维基百科](https://zh.wikipedia.org/zh-hans/%E4%BB%BB%E5%89%91%E6%B6%9B)
+* Jennifer Pan, Assistant Professor, Dept. of Communication, Stanford University, 专注于极权国家的政治通讯研究, [个人网站](http://jenpan.com/), [Google Scholar主页](https://scholar.google.com/citations?user=5EIL7zMAAAAJ&hl=en)
 
 ### 法律
 * 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
