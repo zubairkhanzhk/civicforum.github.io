@@ -111,10 +111,11 @@
 20. [博客：NHK纪录片精选](https://kamonka.blogspot.com/)
 
 ## 人物
-14. 本站项目 [当代中文自由派学者列表](./liberal_intellectual.md)
-21. [郝柏村言论搜集](./collection/haobochun.md)
-22. [许章润言论搜集](./collection/xuzhangrun.md)
-8. [明居正系列电视讲座: 中原大地世纪回眸](./collection/mingjuzheng.md)
+1. 本站项目 [当代中文自由派学者列表](./liberal_intellectual.md)
+2. [郝柏村言论搜集](./collection/haobochun.md)
+3. [许章润言论搜集](./collection/xuzhangrun.md)
+4. [明居正系列电视讲座: 中原大地世纪回眸](./collection/mingjuzheng.md)
+5. [Jennifer Pan学术主页](https://scholar.google.com/citations?user=5EIL7zMAAAAJ&hl=en)
 
 
 ## 政治历史公开课
