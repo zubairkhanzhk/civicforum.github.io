@@ -181,7 +181,7 @@
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
 * [秦晖：本土的与反殖民的](https://pincong.rocks/article/1507)
-* [盟观察 | 資中筠告訴你中美貿易戰的真相和未來 2018-06-24](https://pincong.rocks/article/1552)
+* [盟观察 資中筠告訴你中美貿易戰的真相和未來 2018-06-24](https://pincong.rocks/article/1552)
 * [[政见] 硬核田野：教授卧底越南性产业](https://pincong.rocks/article/1494)
 * [中國青年行動者處境調研報告 Matters.news](https://pincong.rocks/article/1315)
 * [论文分享：哈佛、斯坦福和加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://pincong.rocks/article/1636)
