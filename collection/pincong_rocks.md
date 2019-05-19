@@ -159,7 +159,8 @@
 * [墙内讽刺、犀利作品系列（2）荒谬的苦难哲学，作者：狄马 ](https://pincong.rocks/article/827)
 * [墙内讽刺、犀利作品系列（3）我们当下的恐惧与期待，作者：许章润](https://pincong.rocks/question/3010)
 * [墙内讽刺、犀利作品系列（4）中国不是一个红色帝国，作者：许章润](https://pincong.rocks/question/3009)
-* ["我們仍未被征服"---微博文章備份 ](https://pincong.rocks/article/830)
+* [墙内犀利讽刺作品系列之不知道第几](https://pincong.rocks/article/1640)
+* ["我們仍未被征服"---微博文章備份](https://pincong.rocks/article/830)
 * [【转】文革离我们并不远——文革定性研讨会论文辑要 ](https://pincong.rocks/article/802)
 * [专栏文章: 大情报意味着什么？ ](https://pincong.rocks/article/23)
 * [【转载】最近比较火的“大连民营企业主 张释文 虚开发票被捕事件” ](https://pincong.rocks/article/182)
@@ -182,10 +183,12 @@
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
 * [秦晖：本土的与反殖民的](https://pincong.rocks/article/1507)
 * [盟观察 資中筠告訴你中美貿易戰的真相和未來 2018-06-24](https://pincong.rocks/article/1552)
+* [傳說是中美貿易談判，美方代表團提出的協議框架](https://pincong.rocks/article/1553)
+* [Zeihan: 与华为誓不两立 (My Way or the Huawei) 英文+机翻](https://pincong.rocks/article/1638)
 * [[政见] 硬核田野：教授卧底越南性产业](https://pincong.rocks/article/1494)
 * [中國青年行動者處境調研報告 Matters.news](https://pincong.rocks/article/1315)
 * [论文分享：哈佛、斯坦福和加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://pincong.rocks/article/1636)
 * [讨论：新媒体时代的议题设置之——如何操控意识（节选）](https://pincong.rocks/article/1373)
 
 ---
-更新 2019/4/30
+更新 2019/5/19
