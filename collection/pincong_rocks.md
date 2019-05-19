@@ -6,6 +6,7 @@
 * [我们在墙外的讨论有什么意义？ ](https://pincong.rocks/article/313)
 * [社會科學是甚麼？能算是科學嗎？ ](https://pincong.rocks/question/2206)
 * [為什麼有伊斯蘭文明，有基督教文明，印度教文明，沒有無神論文明 ](https://pincong.rocks/question/2189)
+* [关于中共的宣传与洗脑对人的身体与意识的影响的讨论](https://pincong.rocks/question/890)
 * [[回答] 太阳花学运过去5年了，现在（2019）怎样评价这场运动？有实质促进台湾公民社会成长吗？](https://pincong.rocks/article/913)
 * [[拙文一篇] 《血染的风采》——只有血，没有风采 ](https://pincong.rocks/article/355)
 * [價值隨筆](https://pincong.rocks/article/125)
@@ -38,6 +39,7 @@
 * [从蛋糕店案说美国的联邦权与州权历史](https://pincong.rocks/article/1108)
 * [你今天「支」了吗？](https://pincong.rocks/article/1148)
 * [中美貿易戰之解讀－與友人的閒談](https://pincong.rocks/article/1168)
+* [中美貿易戰之解讀－與友人的閒談（續）](https://pincong.rocks/article/1549)
 * [如何评价中国教育部数据，显示「出国留学生归国增长8%」？](https://pincong.rocks/question/3680)
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
 * [你第一次聽過六四天安門事件，是在什麼狀況？當時的心情如何呢](https://pincong.rocks/question/3637)
@@ -49,6 +51,18 @@
 * [如何看待复旦大学知和社（性别平权社团）爆出信息员？](https://pincong.rocks/question/3711)
 * [一个90后女留学生眼中的法轮功](https://pincong.rocks/article/1384)
 * [四月记](https://pincong.rocks/article/1456)
+* [5月10日之后，中国人应该作何应对？](https://pincong.rocks/article/1502)
+* [推荐几个比较优秀的华人牧师讲道](https://pincong.rocks/article/1538)
+* [台灣國安局借中國刀殺親中媒體？](https://pincong.rocks/question/4120)
+* [基于保护言论自由与信仰自由，商家有权拒绝客人的要求吗？](https://pincong.rocks/question/3971)
+* [在电竞赛事中，女性选手不仅少见，也难以有超越男性选手的成就。你认为是什麽原因呢？](https://pincong.rocks/question/4122)
+* [同性恋让你感到彆扭吗？如果不会，你身边有「恐同症」的人，为何排斥同性恋呢？](https://pincong.rocks/question/4247)
+* [到何种阶段，孕妇腹中的「生命」，才算受法律保障的「人」？堕胎是一种「杀人」吗？](https://pincong.rocks/question/4175)
+* [討論非法/合法槍枝之問題。](https://pincong.rocks/article/1541)
+* [再聊美中贸易战。](https://pincong.rocks/article/1529)
+* [你反共主要是反对中国共产党什么？你支持共产党是支持中国共产党什么？](https://pincong.rocks/question/4232)
+* [高墙外的世界到底是什么样的呢？](https://pincong.rocks/question/4265)
+
 
 ## 笔记
 * [ 极简的四十个心理学实验总结，重点自带下划线 ](https://pincong.rocks/article/521)
@@ -67,6 +81,7 @@
 
 ## 华人
 * [轉：南洋各國對華人的態度](https://pincong.rocks/article/928)
+* [印尼排华究竟是什么情况?](https://pincong.rocks/question/3912)
 * [马英九教授专题演讲系列](https://pincong.rocks/article/926)
 * [關於臺灣獨立運動的研究及各方觀點](https://pincong.rocks/article/736)
 * [深入了解民进党（民主进步党）](https://pincong.rocks/article/619)
@@ -84,6 +99,8 @@
 * [转 二十多年来伊斯兰教研究述论， 作者：哈宝玉 来源：《新疆社会科学》2006年第2期](https://pincong.rocks/article/1153)
 * [视频：虎嘯之變-經國先生在台的政戰之路](https://pincong.rocks/article/1483)
 * [【转载】-《返校》背後的血與淚：台灣「戒嚴時代」的 38 年零 56 天](https://pincong.rocks/article/1484)
+* [天则经济研究所： 国民党为什么丢掉了大陆 （一）](https://pincong.rocks/article/1554)
+* [关于台湾问题的一切都在这里 原标题 Taiwan: Issues for Congress](https://pincong.rocks/article/1489)
 
 ## 品葱
 * [ 我对新品葱的一点期待 ](https://pincong.rocks/article/9)
@@ -95,7 +112,11 @@
 * [为了保证新品葱的存续，我们决定公开分享网站数据](https://pincong.rocks/article/98)
 * [ 欲无杂草，必种庄稼——论如何提高品葱问答及文章的质量 ](https://pincong.rocks/article/491)
 * [告品葱同胞书](https://pincong.rocks/question/3428)
-* [【RFC-058】 成立开发者委员会](https://pincong.rocks/article/1377)
+* [【报名】 开发者委员会成员申请](https://pincong.rocks/article/1511)
+* [比较好奇品葱的管理员和大家认为品葱的定位是什么？是否愿意承担额外的责任和风险？](https://pincong.rocks/question/4051)
+* [【RFC-068】品葱回收站--让品葱不但成为启蒙的摇篮，也成为网评员的坟场](https://pincong.rocks/article/1612)
+* [如何在品葱进行「好的回答」？](https://pincong.rocks/question/4052)
+
 
 ## 技术流
 * [ 新品葱SQL数据库在线查询 ](https://pincong.rocks/article/540)
@@ -108,6 +129,7 @@
 * [如何通过Tor上传图片至Imgur图床以免敏感信息被记录](https://pincong.rocks/article/523)
 * [都9102年了，上网时候的安全事项你做了几件？（不定期更新）](https://pincong.rocks/article/408)
 * [[原创教程]在Ubuntu上安裝Tor与Shadowsocks实现安全上网](https://pincong.rocks/article/1350)
+* [[浏览量赞数排行]6 May 2019](https://pincong.rocks/question/3970)
 
 ## 文摘
 * [文摘：为什么煽动宣传会有效果——睡眠者效应](https://pincong.rocks/article/900)
@@ -158,6 +180,12 @@
 * [CIA的《简单破坏战地手册》 1944 Simple Sabotage Field Manual, by Strategic Services](https://pincong.rocks/article/1413)
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
+* [秦晖：本土的与反殖民的](https://pincong.rocks/article/1507)
+* [盟观察 | 資中筠告訴你中美貿易戰的真相和未來 2018-06-24](https://pincong.rocks/article/1552)
+* [[政见] 硬核田野：教授卧底越南性产业](https://pincong.rocks/article/1494)
+* [中國青年行動者處境調研報告 Matters.news](https://pincong.rocks/article/1315)
+* [论文分享：哈佛、斯坦福和加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://pincong.rocks/article/1636)
+* [讨论：新媒体时代的议题设置之——如何操控意识（节选）](https://pincong.rocks/article/1373)
 
 ---
 更新 2019/4/30
