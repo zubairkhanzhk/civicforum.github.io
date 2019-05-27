@@ -117,6 +117,8 @@
 * [比较好奇品葱的管理员和大家认为品葱的定位是什么？是否愿意承担额外的责任和风险？](https://pincong.rocks/question/4051)
 * [【RFC-068】品葱回收站--让品葱不但成为启蒙的摇篮，也成为网评员的坟场](https://pincong.rocks/article/1612)
 * [如何在品葱进行「好的回答」？](https://pincong.rocks/question/4052)
+* [你今天「支」了吗？](https://pincong.rocks/article/1148)
+* [如何干烂新品葱？](https://pincong.rocks/article/1246)
 
 
 ## 技术流
@@ -131,6 +133,7 @@
 * [都9102年了，上网时候的安全事项你做了几件？（不定期更新）](https://pincong.rocks/article/408)
 * [[原创教程]在Ubuntu上安裝Tor与Shadowsocks实现安全上网](https://pincong.rocks/article/1350)
 * [[浏览量赞数排行]6 May 2019](https://pincong.rocks/question/3970)
+* [[!實錘爆料!] 微博客戶端私下收集用戶隱私並上傳--原創非轉載](https://pincong.rocks/article/1113)
 
 ## 文摘
 * [文摘：为什么煽动宣传会有效果——睡眠者效应](https://pincong.rocks/article/900)
@@ -183,6 +186,7 @@
 * [转个关于国民、公民、居民以及迁徙自由的文章](https://pincong.rocks/article/1395)
 * [看完这篇台湾旧时代的课文，「没有太阳的地方」，你有什么感受吗？](https://pincong.rocks/question/3762)
 * [秦晖：本土的与反殖民的](https://pincong.rocks/article/1507)
+* [秦晖：中国也有可能和平演变西方](https://pincong.rocks/article/1123)
 * [盟观察 資中筠告訴你中美貿易戰的真相和未來 2018-06-24](https://pincong.rocks/article/1552)
 * [傳說是中美貿易談判，美方代表團提出的協議框架](https://pincong.rocks/article/1553)
 * [Zeihan: 与华为誓不两立 (My Way or the Huawei) 英文+机翻](https://pincong.rocks/article/1638)
