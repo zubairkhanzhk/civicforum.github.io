@@ -78,3 +78,8 @@ The FBI caught the man accused of creating Silk Road -- the shadowy e-commerce s
 Ask the creator of Freedomhosting who is now serving life in prison!
 
 News reports linked Firefox browser vulnerability to a United States Federal Bureau of Investigation (FBI) operation targeting Freedom Hosting's owner, Eric Eoin Marques. In August 2013, it was discovered that the Firefox browsers in many older versions of the Tor Browser Bundle were vulnerable to a JavaScript attack, as NoScript was not enabled by default
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186334ns.gif" /></p></noscript>

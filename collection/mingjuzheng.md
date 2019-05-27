@@ -46,3 +46,9 @@
 10. [中原大地世纪回眸：中共箝制新闻自由之10](https://www.youtube.com/watch?v=NJ6TZtGyXss&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=11&t=0s)
 11. [中原大地世纪回眸：中共箝制新闻自由之11](https://www.youtube.com/watch?v=antP61Uw7A8&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=12&t=0s)
 12. [中原大地世纪回眸：中共箝制新闻自由之12](https://www.youtube.com/watch?v=jMWjeLat6O0&list=PLS8379AiJYXbreJSYXiXDQMsGNEZOoIMN&index=13&t=0s)
+
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186334ns.gif" /></p></noscript>

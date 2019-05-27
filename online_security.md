@@ -81,3 +81,8 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 
 ### 最后，祝大家翻墙快乐！
 ![Anonymous](https://upload.wikimedia.org/wikipedia/commons/a/a6/Anonymous_emblem.svg)
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186334ns.gif" /></p></noscript>

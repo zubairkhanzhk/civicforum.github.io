@@ -109,3 +109,8 @@ __注:__ (自)媒体人、专栏作家、活动家往往比学者有更大的公
 2. [博讯的“百大知识分子”和乌有之乡的“十大汉奸”](https://www.voachinese.com/a/article-20111231-uncutnews-wuyou-136478543/792370.html)
 3. [独立中文笔会](https://www.chinesepen.org/)
 4. [《零八宪章》签名人员名单汇总](https://chinadigitaltimes.net/space/%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E7%AD%BE%E5%90%8D%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%E6%B1%87%E6%80%BB%EF%BC%88%E5%85%B1%E4%BA%94%E6%89%B9%EF%BC%89)
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186334ns.gif" /></p></noscript>

@@ -24,3 +24,8 @@
 - 列举自己所持观点的局限性
 - 列举自己未能解决的问题，或许能收到别人的反馈
 - 给出引用的消息来源，保持严谨和信息量
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186334ns.gif" /></p></noscript>

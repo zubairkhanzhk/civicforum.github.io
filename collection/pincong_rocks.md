@@ -62,6 +62,7 @@
 * [再聊美中贸易战。](https://pincong.rocks/article/1529)
 * [你反共主要是反对中国共产党什么？你支持共产党是支持中国共产党什么？](https://pincong.rocks/question/4232)
 * [高墙外的世界到底是什么样的呢？](https://pincong.rocks/question/4265)
+* [怎样有效地探索巴拿马文件？](https://pincong.rocks/question/4271)
 
 
 ## 笔记
