@@ -21,6 +21,9 @@
 【建议反馈】欢迎转发本页(未被墙)，欢迎向本[github repo](https://github.com/civicforum/civicforum.github.io)中提交issue作为对项目的建议和反馈！
 
 ## 议论题目列表
+
+查看相关[西式公民论题列表](./collection/civic_western.md)
+
 1. [如果人们没有受过民主教育，他们是不应该拥有普选权的吗？](https://github.com/civicforum/civicforum.github.io/issues/1) ==> [品葱用户点此](https://pincong.rocks/question/1223) 
 2. [人权高于主权吗？](https://github.com/civicforum/civicforum.github.io/issues/2) ==> [品葱用户点此](https://pincong.rocks/question/1271)
 3. [发生重大社会安全事件时，即使认为信息公开会导致骚乱的风险，政府仍然应该开放信息传播](https://github.com/civicforum/civicforum.github.io/issues/3) ==> [品葱用户点此](https://pincong.rocks/question/1293) 
