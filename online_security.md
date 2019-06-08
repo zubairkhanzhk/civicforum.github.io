@@ -33,11 +33,11 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 7. 不用与墙内相同的网名，更不要用实名，更不要采用跟墙内账号相同或相近的密码
 8. 不要发暴露身份信息的照片
 9. 不要标注地址信息
-10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件[https://protonmail.com/](https://protonmail.com/)  注意, 你需要牢记密码, 因为没人可以帮你找回密码，其它匿名邮箱[Openmailbox](https://www.openmailbox.org/), [Yandex Mail](https://mail.yandex.com/)。 如果你的目的是注册网站，可以考虑临时邮箱[http://www.bccto.me](http://www.bccto.me). 一些安全邮件提供商[https://imgchr.com/i/F7CsJK](https://imgchr.com/i/F7CsJK) 
+10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件[https://protonmail.com/](https://protonmail.com/)  注意, 你需要牢记密码, 因为没人可以帮你找回密码，其它匿名邮箱[Openmailbox](https://www.openmailbox.org/), [Yandex Mail](https://mail.yandex.com/)。 如果你的目的是注册网站，可以考虑临时邮箱[http://www.bccto.me](http://www.bccto.me). 一些安全邮件提供商[https://imgchr.com/i/F7CsJK](https://imgchr.com/i/F7CsJK)
 18. 支持Tor的安全邮箱 [本站备份](。/2019/), [品葱](https://pincong.rocks/article/624), [Reddit原文](https://www.reddit.com/r/onions/comments/acodje/list_of_onion_email_providers_in_2019/)
 11. 此外, 再推荐几个相对安全的应用; MEGA [https://mega.nz/](https://mega.nz/)  是一个加密的云盘. [Uploadfiles.io](https://Uploadfiles.io)是一个匿名文件共享应用; Tor [https://www.torproject.org/](https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE [https://wire.com](https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram [https://telegram.org/](https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen [https://unseen.is/](https://unseen.is/)
 12. 除此之外, 你的输入法也可能被用来监视你, 因此不推荐使用国产的输入法.
-13. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), [openload.co](https://openload.co), [https://anonfiles.com](https://anonfiles.com) 
+13. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), [openload.co](https://openload.co), [https://anonfiles.com](https://anonfiles.com), [星際文件系統IPFS分享](https://ipfs-forever.github.io), [文檔分享ipfs.ink](https://ipfs.ink)
 17. 文本搬运与备份 [https://telegra.ph](https://telegra.ph), [安全上传图片至imgur图床](https://pincong.rocks/article/523), [https://www196.lunapic.com/](https://www196.lunapic.com/), [https://memegenerator.net/](https://memegenerator.net/)
 14. 阅后即焚 [https://naive.cf](https://naive.cf/) [https://privnote.com](https://privnote.com/)
 15. 短链接 [https://bit.do/](https://bit.do/), [https://goo.gl/](https://goo.gl/), [https://tiny.cc/](https://tiny.cc/), [https://bitly.com/](https://bitly.com/)
@@ -47,22 +47,22 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 
 ## 【相关资源】<a name="resources"></a>
 
-### 隐私工具--加密安全对抗全球大规模监控 
+### 隐私工具--加密安全对抗全球大规模监控
 [https://cybermagicsec.github.io/privacytools-zh/](https://cybermagicsec.github.io/privacytools-zh/)
 
 ### 粉碎棱镜--保护你自己的安全、隐私和自由
 [https://prism-break.org/zh-CN/](https://prism-break.org/zh-CN/)
 
-### 编程随想的博客--翻墙技术专栏 
+### 编程随想的博客--翻墙技术专栏
 [https://program-think.blogspot.com/](https://program-think.blogspot.com/)
 
-1. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html) 
-2. [如何防止黑客入侵(系列)](https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html) 
-3. [如何保护隐私(系列)](https://program-think.blogspot.com/2013/06/privacy-protection-0.html) 
+1. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
+2. [如何防止黑客入侵(系列)](https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html)
+3. [如何保护隐私(系列)](https://program-think.blogspot.com/2013/06/privacy-protection-0.html)
 4. [如何隐藏你的踪迹，避免跨省追捕(系列)](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html&nbsp;)
-5. [扫盲操作系统虚拟机(系列)](https://program-think.blogspot.com/2012/10/system-vm-0.html) 
-6. [TrueCrypt 的扫盲教程和高级教程](https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index) 
-7. [文件加密的扫盲介绍](https://program-think.blogspot.com/2011/05/file-encryption-overview.html) 
+5. [扫盲操作系统虚拟机(系列)](https://program-think.blogspot.com/2012/10/system-vm-0.html)
+6. [TrueCrypt 的扫盲教程和高级教程](https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index)
+7. [文件加密的扫盲介绍](https://program-think.blogspot.com/2011/05/file-encryption-overview.html)
 8. [文件备份技巧：组合”虚拟加密盘”和”网盘”](https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html)  
 9. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)  
 10. [社会工程学扫盲(系列)](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
