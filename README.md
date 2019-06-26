@@ -114,8 +114,8 @@
 1. [鲍鹏山 商君书](https://www.youtube.com/watch?v=wxbZ6ujPxOg)
     > 商鞅变法不是你以为的立根木桩子赏人金块以促进法治的故事。这个视频是让你了解中国延续2000年并且就在你我身边活着的核心统治术。同时，也是秦始皇焚书坑儒、杀豪强的核心逻辑。在此，尤其警告那些参与建设GFW和天网工程的人，不要把活干绝了，升级的时候进度慢一点活干得差一点。墙修得太好的话，你们这些修墙者就是第一个被杀的对象。千万别幼稚的以为自己是国家的主人。
 2. 渗透与颠覆的教科书(全英文无中字)
-  1. [Yuri Bezmenov: Deception Was My Job (Complete)](https://www.youtube.com/watch?v=y3qkf3bajd4),
-  2. [Yuri Bezmenov: Psychological Warfare Subversion & Control of Western Society (Complete)](https://www.youtube.com/watch?v=5gnpCqsXE8g)
+    1. [Yuri Bezmenov: Deception Was My Job (Complete)](https://www.youtube.com/watch?v=y3qkf3bajd4),
+    2. [Yuri Bezmenov: Psychological Warfare Subversion & Control of Western Society (Complete)](https://www.youtube.com/watch?v=5gnpCqsXE8g)
     > Yuri Bezmenov是前苏联KGB间谍、驻印度外交官，70年代秘密叛逃至加拿大。这部摄制于80年代初的视频包含他的个人经历和KGB如何按步骤改变自由社会的价值观并最终颠覆其政权。学习渗透和颠覆的基本框架的目的是帮你避免被内外势力操纵、利用，被当作代理人(有用的白痴Useful Idiot)或被宣传机器所蛊惑。而在夺权之后，那些革命分子大多都被当作不稳定因素被各种名义肉体消灭或整肃。这类模式不仅出现在许多华约国家，在中共党史中也屡见不鲜：大量中共地下党员在49年到文革期间的各种运动中被清洗，文革中的红卫兵和造反派头子也都被以'上山下乡'或判刑等方式整肃、迫害，这些都不是偶然。 __尤其是今天的马列毛左狂热分子及其背后的煽动者应以史为鉴，想好退路，勿重蹈覆辙。__
 3. [博客：NHK纪录片精选](https://kamonka.blogspot.com/)
 
