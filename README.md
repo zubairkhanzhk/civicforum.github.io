@@ -96,7 +96,7 @@
 5. [下架及未再版简体中文书目](./2019/removed_books.md)
 6. [豆瓣不存在的书和电影 端点星小项目](https://terminus2049.github.io/Not-exist-in-douban/)
 7. [新品葱精华列表](./collection/pincong_rocks.md)
-8. 一个关于数字集权、审查、监视的博客 [Medium@iYouPort](https://medium.com/@iyouport), [Steemit@iyouport](https://steemit.com/@iyouport)
+8. 一个关于数字集权、审查、监视的博客 [iyouport.org](https://www.iyouport.org/), [Medium@iYouPort](https://medium.com/@iyouport), [Steemit@iyouport](https://steemit.com/@iyouport)
 9. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
 10. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 11. 最好的博客没有之一 [编程随想的博客](https://program-think.blogspot.com/)
