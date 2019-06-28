@@ -26,6 +26,7 @@
 * 杨宪益（1915－2009），生于天津，祖籍安徽盱眙（今属江苏省淮安市）鲍集镇梁集村，著名翻译家、外国文学研究专家、诗人。 [维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E5%AE%AA%E7%9B%8A)
 * 许倬云（1930－），英文名 Cho-yun Hsu，生于中国福建厦门，祖籍江苏无锡，历史学家，拥有中华民国与美国国籍，现为美国匹兹堡大学历史学系荣休讲座教授、中央研究院院士。[维基百科](https://zh.wikipedia.org/zh-hans/%E8%A8%B1%E5%80%AC%E9%9B%B2)
 * 金觀濤（1947－），浙江義烏人，學者，作家與社會評論家。1980年代有所謂「青年四大導師」或稱「四大啟蒙導師」，金觀濤和方勵之、溫元凱、李澤厚並列。[维基百科](https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4)
+* 陈家琪（1947－）是同济大学哲学系系主任、教授、博士生导师。[维基百科](https://zh.wikipedia.org/wiki/%E9%99%88%E5%AE%B6%E7%90%AA)
 
 ### 经济、金融
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
@@ -41,6 +42,7 @@
 * 程晓农（1950年代－），男，祖籍中国江苏南京，中国经济学家、转型问题学者、旅美学者。曾任中国经济体制改革研究所综合研究室主任、副研究员，曾任美国《当代中国研究》杂志主编 [维基百科](https://zh.wikipedia.org/zh-hans/%E7%A8%8B%E6%99%93%E5%86%9C)
 * 许小年（1953-），中欧国际工商学院经济学和金融学教授，是一位中国经济学家，主要研究宏观经济学、金融学、金融机构与金融市场，过渡经济以及中国经济改革。[维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E5%B0%8F%E5%B9%B4)
 * 张五常（1935-），经济学家，芝加哥大学，西雅图华盛顿大学，香港大学经济金融学系 [维基百科](https://zh.wikipedia.org/zh/%E5%BC%B5%E4%BA%94%E5%B8%B8)
+* 许成钢（1950－），1982年获清华大学机械工程硕士学位，1991年获美国哈佛大学经济学博士学位，曾任伦敦政治经济学院经济学副教授，现任香港大学经济系教授，欧洲经济政策研究中心(CEPR)研究员，《亚洲法与经济学学会》主席等职。[爱思想 存档](https://web.archive.org/web/20190629032654/http://www.aisixiang.com/thinktank/xuchenggang.html)
 
 ### 社会学
 * 郑也夫 北京大学社会学系 教授 [北大官网介绍](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=586)
@@ -71,6 +73,7 @@
 * Jennifer Pan, Assistant Professor, Dept. of Communication, Stanford University, 专注于极权国家的政治通讯研究, [个人网站](http://jenpan.com/), [Google Scholar主页](https://scholar.google.com/citations?user=5EIL7zMAAAAJ&hl=en)
 * Roderick MacFarquhar 中文名：马若德 (1930-2019), 罗德里克·麦克法夸尔教授生前是美国哈佛大学历史与政治学莱劳伊·B·威廉士讲座教授，费正清中国研究中心前主任，具有丰富的研究及教学经历，包括历任：哥伦比亚大学伍德罗·威尔逊国际学者中心（Woodrow Wilson International Center for Scholars）研究院、美国人文与科学院（American Academy of Arts and Sciences）和皇家国际事务研究所（The Royal Institute of International Affairs）的研究员。[Wikipedia](https://en.wikipedia.org/wiki/Roderick_MacFarquhar), [逝世文纪念](https://archive.li/O3n44)
 * 裴敏欣 Minxin Pei（1957－），是一位美籍華人，美国政治学家，專長是中国政治经济、中美关系及发展中国家的民主化，目前擔任克萊蒙特·麥肯納學院政府学教授、凯克国际战略研究中心（Keck Center for International and Strategic Studies）主任。裴敏欣长期以來一直在《中国季刊》、《今日中国》、《外交官》、《外交杂志》等期刊發表學術文章，他也为許多报刊撰写评论，為CNN等媒體提供專業意見。 [维基百科](https://zh.wikipedia.org/wiki/%E8%A3%B4%E6%95%8F%E6%AC%A3)
+* 严家祺（1942－），社会科学学者。曾担任中国社会科学院政治学研究所首任所长、中华全国青年联合会常委、北京市人大代表，以及中国行为科学学会副会长；1986至1987年，曾在时任国务院总理赵紫阳领导下的“政治改革办公室”工作；1989年六四事件后流亡美国。[维基百科](https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6)
 
 ### 法律
 * 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)
