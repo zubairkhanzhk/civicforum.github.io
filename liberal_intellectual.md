@@ -120,6 +120,7 @@ __注:__ (自)媒体人、专栏作家、活动家往往比学者有更大的公
 3. [独立中文笔会](https://www.chinesepen.org/)
 4. [《零八宪章》签名人员名单汇总](https://chinadigitaltimes.net/space/%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E7%AD%BE%E5%90%8D%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%E6%B1%87%E6%80%BB%EF%BC%88%E5%85%B1%E4%BA%94%E6%89%B9%EF%BC%89)
 5. [中国数字时代-社会科学学者](https://chinadigitaltimes.net/space/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%AD%A6%E8%80%85)
+6. [护宪维权网](http://www.hxwq.org/), [存档](https://web.archive.org/web/20190629034844/http://www.hxwq.org/)
 
 
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
