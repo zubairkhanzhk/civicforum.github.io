@@ -27,7 +27,7 @@
 * 许倬云（1930－），英文名 Cho-yun Hsu，生于中国福建厦门，祖籍江苏无锡，历史学家，拥有中华民国与美国国籍，现为美国匹兹堡大学历史学系荣休讲座教授、中央研究院院士。[维基百科](https://zh.wikipedia.org/zh-hans/%E8%A8%B1%E5%80%AC%E9%9B%B2)
 * 金觀濤（1947－），浙江義烏人，學者，作家與社會評論家。1980年代有所謂「青年四大導師」或稱「四大啟蒙導師」，金觀濤和方勵之、溫元凱、李澤厚並列。[维基百科](https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4)
 * 陈家琪（1947－）是同济大学哲学系系主任、教授、博士生导师。[维基百科](https://zh.wikipedia.org/wiki/%E9%99%88%E5%AE%B6%E7%90%AA)
-* 吳展良（1958－），為臺灣歷史學家，前臺灣大學歷史學系系主任，現任臺大歷史系教授。 [维基百科](https://zh.wikipedia.org/zh-hant/%E5%90%B3%E5%B1%95%E8%89%AF)
+* 吳展良（1958－）臺灣歷史學家，前臺灣大學歷史學系系主任，現任臺大歷史系教授。 [维基百科](https://zh.wikipedia.org/zh-hant/%E5%90%B3%E5%B1%95%E8%89%AF), [吴展良的儒学网站](https://sites.google.com/site/wuweintu/), [YouTube频道](https://www.youtube.com/channel/UCr1t63Fgd4nFXdjjZlGleQw)
 
 ### 经济、金融
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
