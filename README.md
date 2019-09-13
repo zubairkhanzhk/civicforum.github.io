@@ -147,9 +147,10 @@
 
 ## [品葱学院](https://pincong.rocks/explore/category-13)
 1. [【资料征集】中小学通识教育/公民教育课本或课纲](./collection/general_education.md)
-1. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
-2. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
-3. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
+2. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
+3. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
+4. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
+5. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
 
 更新日期2019/9/15
 
