@@ -145,13 +145,13 @@
 2. [政大通识教育地图](http://cis.nccu.edu.tw/coursemap/students/GenEdu.aspx)
 3. [香港通识教育课纲]( https://334.edb.hkedcity.net/new/doc/chi/curriculum/LS%20C&A%20Guide_updated_c.pdf)
 
-## 品葱学院
+## [品葱学院](https://pincong.rocks/explore/category-13)
 1. [【资料征集】中小学通识教育/公民教育课本或课纲](./collection/general_education.md)
 1. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
 2. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
 3. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
 
-更新日期2019/6/27
+更新日期2019/9/15
 
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186334);</script>
 <script async src="//static.getclicky.com/js"></script>

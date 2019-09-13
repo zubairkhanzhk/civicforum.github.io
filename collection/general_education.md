@@ -101,6 +101,9 @@ FB [https://www.facebook.com/pg/iknow.hkej/about/](https://www.facebook.com/pg/i
 #### 【美国通识教育】--@ignorantzoro 转发
 [转：10张图看懂哈佛通识教育的特质](https://pincong.rocks/article/4579)
 
+#### 【（臺）公民與社會課程】  
+- 私立建臺中学高中部 [公民與社會教學科網站](https://bit.ly/2mhgCbq)）公民與社會課程綱要2005年，原始链接[https://bit.ly/2m96H7A](https://bit.ly/2m96H7A)，[PDF版本](https://ufile.io/p0l2mq79)
+- 华盛顿高中社会教学科网站 [https://sites.google.com/a/whs.tc.edu.tw/society/gong-min-ke](https://sites.google.com/a/whs.tc.edu.tw/society/gong-min-ke)  --@500miles
 
 ---
 
