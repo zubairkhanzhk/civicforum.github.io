@@ -75,6 +75,8 @@
 * Roderick MacFarquhar 中文名：马若德 (1930-2019), 罗德里克·麦克法夸尔教授生前是美国哈佛大学历史与政治学莱劳伊·B·威廉士讲座教授，费正清中国研究中心前主任，具有丰富的研究及教学经历，包括历任：哥伦比亚大学伍德罗·威尔逊国际学者中心（Woodrow Wilson International Center for Scholars）研究院、美国人文与科学院（American Academy of Arts and Sciences）和皇家国际事务研究所（The Royal Institute of International Affairs）的研究员。[Wikipedia](https://en.wikipedia.org/wiki/Roderick_MacFarquhar), [逝世文纪念](https://archive.li/O3n44)
 * 裴敏欣 Minxin Pei（1957－），是一位美籍華人，美国政治学家，專長是中国政治经济、中美关系及发展中国家的民主化，目前擔任克萊蒙特·麥肯納學院政府学教授、凯克国际战略研究中心（Keck Center for International and Strategic Studies）主任。裴敏欣长期以來一直在《中国季刊》、《今日中国》、《外交官》、《外交杂志》等期刊發表學術文章，他也为許多报刊撰写评论，為CNN等媒體提供專業意見。 [维基百科](https://zh.wikipedia.org/wiki/%E8%A3%B4%E6%95%8F%E6%AC%A3)
 * 严家祺（1942－），社会科学学者。曾担任中国社会科学院政治学研究所首任所长、中华全国青年联合会常委、北京市人大代表，以及中国行为科学学会副会长；1986至1987年，曾在时任国务院总理赵紫阳领导下的“政治改革办公室”工作；1989年六四事件后流亡美国。[维基百科](https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6)
+* 黎安友（英文名：Andrew James Nathan，1943年4月3日－），美国汉学家，哥伦比亚大学政治系教授、东亚研究所主任。美国政治学协会会员、亚洲研究协会会员。黎的研究专长是：中国政治、中国近代史、比较政治学。 [主页](https://polisci.columbia.edu/content/andrew-j-nathan), [Google Scholar](https://polisci.columbia.edu/content/andrew-j-nathan)
+* 李成，Cheng Li, 布鲁金斯学会约翰•桑顿中国中心主任及外交政策项目资深研究员。他同时也是美中关系全国委员会董事。 [主页](https://www.brookings.edu/zh-cn/experts/%e6%9d%8e%e6%88%90/)
 
 ### 法律
 * 张千帆（1964-） 北京大学法学院教授 宪法学 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E5%8D%83%E5%B8%86)

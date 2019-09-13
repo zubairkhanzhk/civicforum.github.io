@@ -110,6 +110,7 @@
 19. [经院派-台湾研究](https://jingyuanpai.home.blog/taiwan/)
 20. 基于IPFS的匿名博客平台 [matters.news](https://matters.news)
 
+
 ## 视频
 1. [鲍鹏山 商君书](https://www.youtube.com/watch?v=wxbZ6ujPxOg)
     > 商鞅变法不是你以为的立根木桩子赏人金块以促进法治的故事。这个视频是让你了解中国延续2000年并且就在你我身边活着的核心统治术。同时，也是秦始皇焚书坑儒、杀豪强的核心逻辑。在此，尤其警告那些参与建设GFW和天网工程的人，不要把活干绝了，升级的时候进度慢一点活干得差一点。墙修得太好的话，你们这些修墙者就是第一个被杀的对象。千万别幼稚的以为自己是国家的主人。
@@ -138,6 +139,17 @@
 9. [丛日云 西方文明通论 之 西方政治文明【11集完整版】](https://www.bilibili.com/video/av38633390/)
 10. [秦晖: 中国思想史公开课 39节](https://www.bilibili.com/video/av7183298/)
 11. [冯友兰: 中国哲学简史](https://web.archive.org/web/20190501155312/http://www.aisixiang.com/thinktank/fengyoulan.html)， 爱思想存档
+
+## 公民教育/通识教育
+1. [General Education In A Free Society： Report Of The Harvard Committee](https://archive.org/details/generaleducation013127mbp)哈佛通识教育红皮书
+2. [政大通识教育地图](http://cis.nccu.edu.tw/coursemap/students/GenEdu.aspx)
+3. [香港通识教育课纲]( https://334.edb.hkedcity.net/new/doc/chi/curriculum/LS%20C&A%20Guide_updated_c.pdf)
+
+## 品葱学院
+1. [【资料征集】中小学通识教育/公民教育课本或课纲](./collection/general_education.md)
+1. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
+2. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
+3. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
 
 更新日期2019/6/27
 
