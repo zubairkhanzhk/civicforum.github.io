@@ -1,6 +1,28 @@
 # 明居正
 
 ## 视频节目
+### [透视中国](https://www.youtube.com/channel/UCGekZ_Ig4dP3NDcJCdOK6aA)精选
+1. [明居正「透視中國」：中共應對新冷戰的策略 【0001】SinoInsider 20190624](https://www.youtube.com/watch?v=SuoyPMn50Q8)
+2. [明居正「透視中國」：中共派系鬥爭與香港送中條例 【0002】SinoInsider 20190627](https://www.youtube.com/watch?v=VmsySjvxFSE)
+3. [明居正「透視中國」：「透視中國」團隊 精準預測分析 【0003】SinoInsider 20190702](https://www.youtube.com/watch?v=_Xf3l49JspA)
+4. [明居正「透視中國」：評量國家是否現代化的三大指標 【0004】SinoInsider 20190707](https://www.youtube.com/watch?v=SDle3C-BzQ0)
+5. [明居正「透視中國」（粵語更新版）：-香港局勢未來發展前沿分析【0005】 SinoInsider 20190719](https://www.youtube.com/watch?v=orSQPkNsdZ8)
+6. [明居正「透視中國」:經濟發展階段與策略【0006】 SinoInsider 20190722](https://www.youtube.com/watch?v=ZR50cwrFm-Y)
+7. [明居正「透視中國」（粵語）：「透視中國」團隊 精準預測分析 【0007】SinoInsider 20190729](https://www.youtube.com/watch?v=7THjyIcrSQs)
+8. [明居正「透視中國」：透視中國團隊如何拆解局勢 【0008】SinoInsider 20190806](https://www.youtube.com/watch?v=9R5w7GL8S7A)
+9. [明居正「透視中國」：香港局勢緊急預警【0009】SinoInsider 20190812](https://www.youtube.com/watch?v=CfQ6nKArVsA)
+10. [明居正「透視中國」：回答網友關心問題【0011】SinoInsider 20190813](https://www.youtube.com/watch?v=Fz8tmVfrb4Y)
+11. [明居正「透視中國」（粵語）：透視中國團隊如何拆解局勢 【0012】SinoInsider 20190814](https://www.youtube.com/watch?v=lDzJrQZNaRk)
+12. [明居正「透視中國」（粵語）:為什么中共害怕香港出現顏色革命【0013】SinoInsider 20190816](https://www.youtube.com/watch?v=onfw__2TsZs)
+13. [明居正「透視中國」：為什麼中共強烈反對支持川普公開信【0014】SinoInsider 20190822](https://www.youtube.com/watch?v=QcdcHrttpoc)
+14. [明居正「透視中國」（粵語）：點解撐川普堅持對華政策公開信會強烈刺激中共【0015】20190823](https://www.youtube.com/watch?v=bXx7C9tqBkY)
+15. [明居正「透視中國」（粵語中文字幕）：中共會否出兵香港 【0016】SinoInsider 20190830](https://www.youtube.com/watch?v=JmT7tcmI3Mo)
+16. [明居正「透視中國」：香港局勢推演：中共如何平息事態【0017】20190831](https://www.youtube.com/watch?v=A-YqFc9CNa0)
+17. [明居正「透視中國」（粵語）：香港局勢推演：中共如何平息事態【0018】20190831](https://www.youtube.com/watch?v=bJR44jNK83c)
+18. [明居正「透視中國」：從鄭文杰案看香港人為什麼要反送中【0019】sinoinsider 20190904](https://www.youtube.com/watch?v=S8sDrzEI7B8)
+19. [明居正「透視中國」（粵語）：從鄭文杰案看香港人為什麼要反送中【0020】sinoinsider 20190904](https://www.youtube.com/watch?v=_874rFHesq0)
+20. [明居正「透視中國」：中共特性與派系鬥爭對香港局勢和中美關係的影響【0021】sinoinsider 20190905](https://www.youtube.com/watch?v=1Frbvn52bdc)
+21. [明居正「透視中國」（粵語）：中共如何控制香港【0022】sinoinsider 20190913](https://www.youtube.com/watch?v=9qI-7UBlrkc)
 
 ### 三民主义
 1. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之1](https://www.youtube.com/watch?v=n228jDdCE6E)
