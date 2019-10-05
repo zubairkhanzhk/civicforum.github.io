@@ -23,6 +23,13 @@
 19. [明居正「透視中國」（粵語）：從鄭文杰案看香港人為什麼要反送中【0020】sinoinsider 20190904](https://www.youtube.com/watch?v=_874rFHesq0)
 20. [明居正「透視中國」：中共特性與派系鬥爭對香港局勢和中美關係的影響【0021】sinoinsider 20190905](https://www.youtube.com/watch?v=1Frbvn52bdc)
 21. [明居正「透視中國」（粵語）：中共如何控制香港【0022】sinoinsider 20190913](https://www.youtube.com/watch?v=9qI-7UBlrkc)
+23. [明居正「透視中國」 解碼中國清除紅毒守護臺灣【0023】sinoinsider 20190916](https://www.youtube.com/watch?v=gdj6A6-iqqU)
+24. [明居正「透視中國」 中共的本質是否改變了【0024】SinoInsider 20190918](https://www.youtube.com/watch?v=a0fCUg8EC3c)
+26. [明居正「透視中國」 大陸民眾不要對香港人忘恩負義【0026】sinoinsider 20190920](https://www.youtube.com/watch?v=D9keUrqPP3g)
+27. [明居正「透視中國」 美國究竟是反共還是反華【0027】sinoinsider 20190925](https://www.youtube.com/watch?v=LlVx1Miq358)
+29. [明居正「透視中國」 美國如何轉變對華政策「反共不反華」【0029】sinoinsider 20190928](https://www.youtube.com/watch?v=jBAdVC-ajHc)
+31. [明居正「透視中國」 十一是「國慶日」還是「佔領日」【0031】sinoinsider 20191001](https://www.youtube.com/watch?v=m982nrlstU0)
+32. [明居正「透視中國」 中共現在就想搶民企嗎【0032】sinoinsider 20191006](https://www.youtube.com/watch?v=59dEAit7AoI)
 
 ### 三民主义
 1. [台灣大學政治系教授明居正： 中原大地世紀回眸 —— 三民主義介紹之1](https://www.youtube.com/watch?v=n228jDdCE6E)
