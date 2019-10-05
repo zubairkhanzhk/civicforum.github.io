@@ -126,7 +126,7 @@
 3. [许章润言论搜集](./collection/xuzhangrun.md)
 4. [明居正系列电视讲座: 中原大地世纪回眸](./collection/mingjuzheng.md)
 5. [Jennifer Pan学术主页](https://scholar.google.com/citations?user=5EIL7zMAAAAJ&hl=en)
-
+6. [程晓农何清涟专栏：中国的陷阱与困境](./collection/chengxiaonong.md)
 
 ## 政治历史公开课
 1. 可汗学院 [课程：美国历史 US History](https://www.khanacademy.org/humanities/us-history)

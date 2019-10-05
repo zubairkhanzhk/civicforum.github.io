@@ -28,6 +28,7 @@
 * 金觀濤（1947－），浙江義烏人，學者，作家與社會評論家。1980年代有所謂「青年四大導師」或稱「四大啟蒙導師」，金觀濤和方勵之、溫元凱、李澤厚並列。[维基百科](https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4)
 * 陈家琪（1947－）是同济大学哲学系系主任、教授、博士生导师。[维基百科](https://zh.wikipedia.org/wiki/%E9%99%88%E5%AE%B6%E7%90%AA)
 * 吳展良（1958－）臺灣歷史學家，前臺灣大學歷史學系系主任，現任臺大歷史系教授。 [维基百科](https://zh.wikipedia.org/zh-hant/%E5%90%B3%E5%B1%95%E8%89%AF), [吴展良的儒学网站](https://sites.google.com/site/wuweintu/), [YouTube频道](https://www.youtube.com/channel/UCr1t63Fgd4nFXdjjZlGleQw)
+* 雷颐（1956年－）祖籍湖南长沙，生于湖北武汉，中华人民共和国历史学家，1985年到中国社会科学院近代史研究所工作至今，被评为研究员。研究方向是中国近代思想史、中国近代知识分子、当代中国史。 [维基百科](https://web.archive.org/web/20190919055012/https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E9%A2%90)
 
 ### 经济、金融
 * 王建国 北京大学光华管理学院市场营销系教授, [北大官网主页](http://scholar.pku.edu.cn/jgwang/home)
@@ -56,6 +57,7 @@
 * 毕研韬（1967-），海南大学教授、西藏問題研究者、战略传播专家。 [维基百科](https://zh.wikipedia.org/wiki/%E6%AF%95%E7%A0%94%E9%9F%AC), 博讯 [研韬观察](https://blog.boxun.com/hero/yantaowatch/)
 * 丁学良（1952－），安徽宣城人，政治社会学家，香港科技大学教授、博士生导师，卡内基国际和平基金会高级研究员，澳洲国立大学亚太研究院通讯研究员，同时兼任浙江大学等高校的荣誉教授或顾问教授。[维基百科](https://zh.wikipedia.org/wiki/%E4%B8%81%E5%AD%A6%E8%89%AF), [爱思想](http://www.aisixiang.com/thinktank/dingxueliang.html) [存档](https://web.archive.org/web/20180906033923/http://www.aisixiang.com/thinktank/dingxueliang.html)
 * 金耀基，SBS，JP 英语：Ambrose Yeo-Chi King，（1935－），浙江天台縣人，中国社会学家、政治学家和教育家，中央研究院院士。 [维基百科](https://zh.wikipedia.org/wiki/%E9%87%91%E8%80%80%E5%9F%BA)
+* 王力雄（1953－）出生于吉林省长春市，祖籍山东龙口，汉族，毕业于吉林工业大学，中国大陆作家、民族问题专家及民间环保人士，著有《天葬——西藏的命运》，《我的西域，你的东土》，《与达赖喇嘛对话》等作品。[维基百科](https://web.archive.org/web/20190919053641/https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84)
 
 
 ### 政治学
