@@ -150,7 +150,8 @@
 2. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
 3. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
 4. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
-5. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
+5. [【资料征集】行动派教程：组织与自组织，领导力，非暴力抗争 ](./collection/activists.md)
+6. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
 
 更新日期2019/9/15
 

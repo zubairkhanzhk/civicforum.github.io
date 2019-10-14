@@ -1,4 +1,4 @@
-## 新品葱 [【资料汇集】政治与社会学](https://pincong.rocks/article/4524)
+## 新品葱 [【资料汇集】政治与社会学](https://web.archive.org/web/20191014192200/https://pincong.rocks/article/4524)
 
 欢迎大家在评论区留言、补充、签到、打卡
 
@@ -34,6 +34,13 @@
 
 @一只鹿兒 @yichangfeng @红楼遗梦
 
+#### 社会学（征集基础教材）  
+
+- 张维迎, 《博弈与社会》，书，公开课 [https://bit.ly/2lY3VlA](https://bit.ly/2lY3VlA)
+
+--贡献者--  
+
+@就菜地里一根葱
 
 #### 政治制度
 
@@ -98,7 +105,8 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 4. [丛日云 西方文明通论 之 西方政治文明【11集完整版】](https://www.bilibili.com/video/av38633390/)
 5. [秦晖: 中国思想史公开课 39节](https://www.bilibili.com/video/av7183298/)
 6. [冯友兰: 中国哲学简史](https://web.archive.org/web/20190501155312/http://www.aisixiang.com/thinktank/fengyoulan.html)， 爱思想存档，推荐度 ★★★★★
-
+7. 法广RFI 法国思想长廊 [https://bit.ly/31YMPo0](https://bit.ly/31YMPo0)（@senseye 推荐）
+8. 罗素：西方哲学史，西方哲学简史 （@fb_china_today 推荐）
 
 ### **（三）研究生阅读资料**
 
@@ -110,6 +118,7 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 - Jennifer Pan （研究五毛的学者）[Google Scholar Home Page](https://scholar.google.com/citationsuser=5EIL7zMAAAAJ&hl=en)
 - 周雪光（1959－），斯坦福大学社会学系教授，[个人网站](https://civicforum.github.io/一个组织学研究),
 - 李成 Cheng Li, Brookings Institution 布鲁金斯学会约翰•桑顿中国中心主任及外交政策项目资深研究员。他同时也是美中关系全国委员会董事。 [https://www.brookings.edu/experts/cheng-li/](https://www.brookings.edu/experts/cheng-li/)
+- 何清涟、程晓农夫妇，（何写的书更多所以放前面）中国苏联经济转型、媒体控制、社会学等。
 
 --贡献者--
 

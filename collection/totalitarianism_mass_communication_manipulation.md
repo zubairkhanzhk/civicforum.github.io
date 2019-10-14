@@ -1,4 +1,4 @@
-## 新品葱[【资料汇集】极权主义、信息传播与意识操纵](https://pincong.rocks/article/4604)
+## 新品葱[【资料汇集】极权主义、信息传播与意识操纵](https://web.archive.org/web/20191014192257/https://pincong.rocks/article/4604)
 
 欢迎[推荐、留言、评论、打卡](https://pincong.rocks/article/4604)，侧重基础原理。
 
@@ -56,7 +56,7 @@ Distraction, not Engaged Argument.” American Political Science Review
 
 ### 宣传、公关、认知科学、心理学等
 
-- （求推荐）
+- 心理学：认知偏误列表 [認知偏誤列表](https://www.wikiwand.com/zh-sg/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8)
 - [免疫心理学](https://pincong.rocks/article/3418) @ikuyui 心理神经免疫学（[Psychoneuroimmunology](https://en.wikipedia.org/wiki/Psychoneuroimmunology)）[介绍1](https://www.ncbi.nlm.nih.gov/pubmed/18318882)，[介绍2](https://www.sciencedirect.com/topics/medicine-and-dentistry/psychoneuroimmunology)
 
 
