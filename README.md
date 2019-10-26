@@ -151,7 +151,7 @@
 3. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
 4. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
 5. [【资料征集】行动派教程：组织与自组织，领导力，非暴力抗争 ](./collection/activists.md)
-6. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/)
+6. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/), [2049bbs](https://2049bbs.xyz/t/1602)
 6. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
 
 更新日期2019/9/15
