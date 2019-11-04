@@ -150,6 +150,7 @@
 1. [General Education In A Free Society： Report Of The Harvard Committee](https://archive.org/details/generaleducation013127mbp)哈佛通识教育红皮书
 2. [政大通识教育地图](http://cis.nccu.edu.tw/coursemap/students/GenEdu.aspx)
 3. [香港通识教育课纲]( https://334.edb.hkedcity.net/new/doc/chi/curriculum/LS%20C&A%20Guide_updated_c.pdf)
+4. [Facing History](https://www.facinghistory.org/topics) 历史教育：纳粹种族屠杀、种族问题、移民等历史话题 
 
 ## [品葱学院](https://pincong.rocks/explore/category-13)
 1. [【资料征集】中小学通识教育/公民教育课本或课纲](./collection/general_education.md)
