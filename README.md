@@ -154,15 +154,16 @@
 3. [香港通识教育课纲]( https://334.edb.hkedcity.net/new/doc/chi/curriculum/LS%20C&A%20Guide_updated_c.pdf)
 4. [Facing History](https://www.facinghistory.org/topics) 历史教育：纳粹种族屠杀、种族问题、移民等历史话题
 
-## [品葱学院](https://pincong.rocks/explore/category-13)
+## [学院](https://pincong.rocks/explore/category-13)
 1. [【资料征集】中小学通识教育/公民教育课本或课纲](./collection/general_education.md)
 2. [【资料征集】文化、宗教与神学、艺术史（待完善）](./collection/culture_religion_theology_art_history_guide.md)
 3. [【资料汇集】政治与社会学](./collection/politics_sociology_guide.md)
 4. [【资料汇集】极权主义、信息传播与意识操纵](./collection/totalitarianism_mass_communication_manipulation.md)
 5. [【资料征集】行动派教程：组织与自组织，领导力，非暴力抗争 ](./collection/activists.md)
 6. [【资料征集】哲学与逻辑学](./collection/logics_philosophy.md)
-7. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/), [2049bbs](https://2049bbs.xyz/t/1602)
-8. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
+7. [【资料征集】经济、金融](./collection/econ_finance.md)
+8. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/), [2049bbs](https://2049bbs.xyz/t/1602)
+9. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
 
 
 更新日期2019/9/15
