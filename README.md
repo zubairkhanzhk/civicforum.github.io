@@ -107,6 +107,8 @@
 16. 基于IPFS的匿名博客平台 [matters.news](https://matters.news)
 17. [Great Books of the Western World](https://wiki.librivox.org/index.php/Great_Books_of_the_Western_World), [Great Conversation Reading Group](http://www.greatconversation.com/)
 18. [Free Public Domain AudioBooks](https://librivox.org/)
+19. [https://nei.st/](https://nei.st/ ) 中文新闻评论聚合网站，类似原墙外楼
+20. [The Foundation for Law, Justice and Society](https://www.fljs.org/) 旨在填补学术和政策制定者间鸿沟的基金会, 受 Wolfson College, University of Oxford 支持。
 
 ## 博客
 1. 最好的博客没有之一 [编程随想的博客](https://program-think.blogspot.com/)
@@ -161,6 +163,7 @@
 6. [【资料征集】哲学与逻辑学](./collection/logics_philosophy.md)
 7. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/), [2049bbs](https://2049bbs.xyz/t/1602)
 8. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
+
 
 更新日期2019/9/15
 
