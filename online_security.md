@@ -79,6 +79,7 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 1. [EvilAnne's Blog](https://evilanne.github.io/)
 2. [安全圈 info](https://www.anquanquan.info/) 接地气的信息安全导航
 3. [RiseUp.net](https://riseup.net/zh) 独立自主的团体，总部位于西雅图，成员来自世界各地。
+4. [Reviewsed.com](https://www.reviewsed.com/most-surveillance-cities-of-the-world/) 世界上监视最多的城市
 
 ### 最后，祝大家翻墙快乐！
 ![Anonymous](https://upload.wikimedia.org/wikipedia/commons/a/a6/Anonymous_emblem.svg)
